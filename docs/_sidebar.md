@@ -1,7 +1,7 @@
 ﻿# BiForm
 - [快速开始](/)
 
-- [认识 Solid](/guides/basic)
+- [认识 BiFOrm(/guides/basic)
 
 - [获取 Pod](/guides/get_pod)
 
