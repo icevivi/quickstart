@@ -1,12 +1,14 @@
-﻿# BiForm
+﻿# biForm
 - [快速开始](/)
 
-- [认识 BiForm](/guides/basic)
+- [认识 biForm](/guides/basic)
 
-- [BiForm 指南](guides/guides)
+- [biForm 指南](guides/guides)
   
-  - [用午休时间做一个基于 BiForm 的应用](guides/make_a_app_in_five_minutes)
+  - [Hello,world!](guides/hello)
   
-  - [BiForm 规范介绍](guides/spec)
+  - [第一个基于 biForm 的表单](guides/first_form)
+  
+  - [biForm 规范介绍](guides/spec)
 
 
