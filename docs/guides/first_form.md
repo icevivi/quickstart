@@ -25,7 +25,9 @@ pub.infoMsgBox('','Hello,world!')
 
 按F5运行：
 
+
 ![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/6.png)
+
 
 点击按钮，弹出对话框：
 
