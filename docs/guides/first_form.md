@@ -24,9 +24,11 @@ pub.infoMsgBox('','Hello,world!')
 ![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/5.png)
 
 按F5运行：
+
 ![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/6.png)
 
 点击按钮，弹出对话框：
+
 ![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/7.png)
 
 这就是我们用 biForm 做的第一个程序。
