@@ -14,5 +14,23 @@
 选中这个按钮，在属性编辑器中找到“脚本-点击时”这一行，
 
 ![编辑脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/4.png)
+
 点击“编辑脚本”进入脚本编辑器。
+
+在脚本编辑器中写下第一行代码：
+
+pub.infoMsgBox('','Hello,world!')
+
+![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/5.png)
+
+按F5运行：
+![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/6.png)
+
+点击按钮，弹出对话框：
+![添加脚本](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/7.png)
+
+这就是我们用 biForm 做的第一个程序。
+
+
+
 
