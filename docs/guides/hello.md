@@ -5,7 +5,7 @@
 
 启动biForm，主窗口就是一个表单界面设计器。
 
-![主窗口](https://raw.githubusercontent.com/icevivi/bilive/master/docs/guides/1.png)
+![主窗口](1.png)
 
 先点击工具栏上的“按钮”图标，
 
