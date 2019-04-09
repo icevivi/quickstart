@@ -9,6 +9,6 @@
   
   - [第一个基于 biForm 的表单](guides/first_form)
   
-  - [biForm 规范介绍](guides/spec)
+  - [biForm 标准开发步骤](guides/spec)
 
 
