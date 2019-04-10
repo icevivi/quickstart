@@ -23,7 +23,7 @@
 
 在脚本编辑器中写下第一行代码：
 
-pub.infoMsgBox('','Hello,world!')
+    pub.infoMsgBox('','Hello,world!')
 
 ![添加脚本](5.png)
 
