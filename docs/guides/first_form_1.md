@@ -9,7 +9,7 @@
 
 在表单上添加好以上控件。
 
-![添加控件](first-1.png)
+![添加控件](first_1.png)
 
 ## 调整属性
 
@@ -17,28 +17,28 @@
 
 <table>
 	<tr>
-		<td>字段</td>
-		<td>控件名称</td>
-		<td>标题</td>
-		<td>最大长度</td>
+		<th>字段</th>
+		<th>控件名称</th>
+		<th>标题</th>
+		<th>最大长度</th>
 	</tr>
 	<tr>
-		<tr>书名</tr>
-		<tr>leName</tr>
-		<tr>书名：</tr>
-		<tr>30</tr>
+		<td>书名</td>
+		<td>leName</td>
+		<td>书名：</td>
+		<td>30</td>
 	</tr>
 	<tr>
-		<tr>作者</tr>
-		<tr>leAuthor</tr>
-		<tr>作者：</tr>
-		<tr>30</tr>
+		<td>作者</td>
+		<td>leAuthor</td>
+		<td>作者：</td>
+		<td>30</td>
 	</tr>
 	<tr>
-		<tr>ISBN</tr>
-		<tr>leISBN</tr>
-		<tr>ISBN：</tr>
-		<tr>20</tr>
+		<td>ISBN</td>
+		<td>leISBN</td>
+		<td>ISBN：</td>
+		<td>20</td>
 	</tr>
 </table>
 
@@ -48,45 +48,45 @@
 
 <table>
 	<tr>
-		<td>属性</td>
-		<td>值</td>
+		<th>属性</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>控件名称</tr>
-		<tr>cbClass</tr>
+		<td>控件名称</td>
+		<td>cbClass</td>
 	</tr>
 	<tr>
-		<tr>标题</tr>
-		<tr>分类：</tr>
+		<td>标题</td>
+		<td>分类：</td>
 	</tr>
 </table>
 
 另外，**下拉列表框**这个控件也需要设置一下下拉列表中显示的项目清单。方法是双击这个控件，弹出以下的对话框：
 
-![编辑下拉列表框](first-2.png)
+![编辑下拉列表框](first_2.png)
 
 按照以下清单设置添加各个项目：
 
 <table>
 	<tr>
-		<td>文字</td>
-		<td>值</td>
+		<th>文字</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>小说</tr>
-		<tr>小说</tr>
+		<td>小说</td>
+		<td>小说</td>
 	</tr>
 	<tr>
-		<tr>历史</tr>
-		<tr>历史</tr>
+		<td>历史</td>
+		<td>历史</td>
 	</tr>
 	<tr>
-		<tr>科学</tr>
-		<tr>科学</tr>
+		<td>科学</td>
+		<td>科学</td>
 	</tr>
 	<tr>
-		<tr>技术</tr>
-		<tr>技术</tr>
+		<td>技术</td>
+		<td>技术</td>
 	</tr>
 </table>
 
@@ -100,28 +100,28 @@
 
 <table>
 	<tr>
-		<td>属性</td>
-		<td>值</td>
+		<th>属性</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>控件名称</tr>
-		<tr>spYear</tr>
+		<td>控件名称</td>
+		<td>spYear</td>
 	</tr>
 	<tr>
-		<tr>加框可见</tr>
-		<tr>是</tr>
+		<td>加框可见</td>
+		<td>是</td>
 	</tr>
 	<tr>
-		<tr>最大值</tr>
-		<tr>2100</tr>
+		<td>最大值</td>
+		<td>2100</td>
 	</tr>
 	<tr>
-		<tr>最小值</tr>
-		<tr>1900</tr>
+		<td>最小值</td>
+		<td>1900</td>
 	</tr>
 	<tr>
-		<tr>默认整数值</tr>
-		<tr>2000</tr>
+		<td>默认整数值</td>
+		<td>2000</td>
 	</tr>
 </table>
 
@@ -129,16 +129,16 @@
 
 <table>
 	<tr>
-		<td>属性</td>
-		<td>值</td>
+		<th>属性</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>控件名称</tr>
-		<tr>laYear</tr>
+		<td>控件名称</td>
+		<td>laYear</td>
 	</tr>
 	<tr>
-		<tr>标题</tr>
-		<tr>出版年份：</tr>
+		<td>标题</td>
+		<td>出版年份：</td>
 	</tr>
 </table>
 
@@ -146,61 +146,61 @@
 
 <table>
 	<tr>
-		<td>属性</td>
-		<td>值</td>
+		<th>属性</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>背景颜色</tr>
-		<tr>(0,170,255,255)或你喜欢的其它颜色</tr>
+		<td>背景颜色</td>
+		<td>(0,170,255,255)或你喜欢的其它颜色</td>
 	</tr>
 	<tr>
-		<tr>填充类型</tr>
-		<tr>填充</tr>
+		<td>填充类型</td>
+		<td>填充</td>
 	</tr>
 	<tr>
-		<tr>标题</tr>
-		<tr>我的书籍</tr>
+		<td>标题</td>
+		<td>我的书籍</td>
 	</tr>
 	<tr>
-		<tr>字体</tr>
-		<tr>微软雅黑,16</tr>
+		<td>字体</td>
+		<td>微软雅黑,16</td>
 	</tr>
 	<tr>
-		<tr>水平对齐方式</tr>
-		<tr>居中</tr>
+		<td>水平对齐方式</td>
+		<td>居中</td>
 	</tr>
 	<tr>
-		<tr>垂直对齐方式</tr>
-		<tr>居中</tr>
+		<td>垂直对齐方式</td>
+		<td>居中</td>
 	</tr>
 </table>
 
 修改完后，大概样子是这样的：
 
-![编辑下拉列表框](first-3.png)
+![编辑下拉列表框](first_3.png)
 
 ## 调整一下表单的属性
 
 <table>
 	<tr>
-		<td>属性</td>
-		<td>值</td>
+		<th>属性</th>
+		<th>值</th>
 	</tr>
 	<tr>
-		<tr>表单名称</tr>
-		<tr>myBook</tr>
+		<td>表单名称</td>
+		<td>myBook</td>
 	</tr>
 	<tr>
-		<tr>表单标题</tr>
-		<tr>我的书籍</tr>
+		<td>表单标题</td>
+		<td>我的书籍</td>
 	</tr>
 	<tr>
-		<tr>宽度</tr>
-		<tr>5000</tr>
+		<td>宽度</td>
+		<td>5000</td>
 	</tr>
 	<tr>
-		<tr>高度</tr>
-		<tr>400</tr>
+		<td>高度</td>
+		<td>400</td>
 	</tr>
 </table>
 
@@ -210,6 +210,6 @@
 
 通过以上步骤，最终表单的设计界面如下：
 
-![编辑下拉列表框](first-4.png)
+![编辑下拉列表框](first_4.png)
 
 
