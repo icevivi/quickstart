@@ -221,9 +221,7 @@
 
 ![表单的界面](first_4.png)
 
-下一步，[设计数据视图](guides/first_form_2)
-
-！
+下一步，[设计数据视图](guides/first_form_2)!
 
 
 
