@@ -130,7 +130,7 @@ def form_loadrecord(record_uuid):
 
 函数 form_loadrecord 的参数 record_uuid 就是这条记录的 UUID 。
 
-这个函数体中第一段已经定义了一些变量，如 this.record 是 t_book 表的一个记录对象，通过访问它的属性就可以获取这条记录各个字段的值。
+这个函数体中第一段已经定义了一些变量，如 `this.record` 是 t_book 表的一个记录对象，通过访问它的属性就可以获取这条记录各个字段的值。
 
 先看下 this.record 对象几个主要的属性（其它属性参考详细的开发文档）：
 
