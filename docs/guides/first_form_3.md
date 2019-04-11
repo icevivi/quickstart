@@ -51,7 +51,7 @@ def DB_t_book_ID_bindvalue(index=1):
 <table>
 	<tr>
 		<th>字段</th>
-		<th>脚本</th>
+		<th>绑定值脚本</th>
 		<th>说明</th>
 	</tr>
 	<tr>
