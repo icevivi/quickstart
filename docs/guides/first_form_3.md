@@ -56,7 +56,7 @@ def DB_t_book_ID_bindvalue(index=1):
 	</tr>
 	<tr>
 		<td>fname 书名</td>
-		<td>	result = this.leName.text</td>
+		<td>result = this.leName.text</td>
 		<td>取 leName 控件中输入的文本</td>
 	</tr>
 	<tr>
@@ -66,17 +66,17 @@ def DB_t_book_ID_bindvalue(index=1):
 	</tr>
 	<tr>
 		<td>fclass 分类</td>
-		<td>	result = this.cbClass.currentText</td>
+		<td>result = this.cbClass.currentText</td>
 		<td>取 cbClass 下拉列表当前选择的文本</td>
 	</tr>	
 	<tr>
 		<td>fyear 出版年份</td>
-		<td>	result = this.spYear.value</td>
+		<td>result = this.spYear.value</td>
 		<td>取 spYear 控件的值</td>
 	</tr>
 	<tr>
 		<td>fISBN ISBN</td>
-		<td>	result = this.leISBN.text</td>
+		<td>result = this.leISBN.text</td>
 		<td>取 leISBN 控件中输入的文本</td>
 	</tr>
 </table>
