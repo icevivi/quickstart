@@ -23,13 +23,13 @@
 上图中是为字段 ID 赋值的缺省脚本，分成上中下三部分，这三部分合起来就是一个完整的 Python 函数定义：
 
 ``` python
-	def DB_t_book_ID_bindvalue(index=1):
-		'''这段脚本会在需要向表的字段写入值时调用.
-		参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
-		result = ''
-		#以下写入你自己的脚本:
-	
-		return result
+def DB_t_book_ID_bindvalue(index=1):
+	'''这段脚本会在需要向表的字段写入值时调用.
+	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
+	result = ''
+	#以下写入你自己的脚本:
+
+	return result
 ```
 
 这个是 biForm 默认生成的函数.如果我们不写自己的脚本，t_book的ID字段返回的结果就是一个空字符串。
@@ -92,16 +92,16 @@
 如上图，我们在脚本编辑器里选择“表单”-“加载数据时”，这里也是一个缺省的函数定义，合起来就是下面这样。
 
 ``` python
-	def form_loadrecord(record_uuid):
-		'''这段脚本会在获得一条主表的记录，需要在表单上显示时调用。
-		参数 record_uuid 是这条记录的UUID。您可以通过 this.record 引用这条记录对象。'''
-		this.record=objMaintable(UUID=record_uuid)
-		if this.record.isEmpty:
-			return
-		record=this.record.data
-		#以下写入你自己的脚本:
-	
-		return None
+def form_loadrecord(record_uuid):
+	'''这段脚本会在获得一条主表的记录，需要在表单上显示时调用。
+	参数 record_uuid 是这条记录的UUID。您可以通过 this.record 引用这条记录对象。'''
+	this.record=objMaintable(UUID=record_uuid)
+	if this.record.isEmpty:
+		return
+	record=this.record.data
+	#以下写入你自己的脚本:
+
+	return None
 ```
 
 要注意的是， biForm 在处理数据表时，会自动为所有表都再加上两个字段 UUID 和 lastUpdated，如下表：
@@ -206,12 +206,12 @@
 可以看到缺省的函数定义是这样的：
 
 ``` python
-	def form_beforesave():
-		'''这段脚本将在保存表单数据前被调用。如果允许保存，则返回 True，否则返回 False。'''
-		result = True
-		#以下写入你自己的脚本:
+def form_beforesave():
+	'''这段脚本将在保存表单数据前被调用。如果允许保存，则返回 True，否则返回 False。'''
+	result = True
+	#以下写入你自己的脚本:
 
-		return result
+	return result
 ```
 	
 在我们要添加的脚本中，先判断了书名、作者、ISBN的内容是否为空，如果有某项为空，就弹出对话框提示一下用户，然后返回 False，就会取消保存操作。
