@@ -208,6 +208,7 @@
 
 我们添加的脚本如下：
 
+``` python
 	if len(this.leName.text)==0:
 		pub.infoMsgBox(this.form.caption,'书名不得为空！')
 		return False
@@ -217,10 +218,11 @@
 	if len(this.leISBN.text)==0:
 		pub.infoMsgBox(this.form.caption,'ISBN不得为空！')
 		return False
+```
 
 ## 记得保存一下
 
-biForm 保存的设计时表单文件后缀名是.bif，记得保存一下！
+biForm 保存的设计时表单文件后缀名是.BIF，记得保存一下！
 
 ## 可以用了！
 
