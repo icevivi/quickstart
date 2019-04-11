@@ -123,8 +123,8 @@ def form_loadrecord(record_uuid):
 	</tr>
 	<tr>
 		<td>lastUpdated</td>
-		<td>2018-08-18 20\:00\:08</td>
-		<td>文本型字段，为这条记录最后被修改的日期和时间，格式固定为 yyyy-MM-dd HH\:mm\:ss</td>
+		<td>`2018-08-18 20:00:08`</td>
+		<td>文本型字段，为这条记录最后被修改的日期和时间，格式固定为 **yyyy-MM-dd HH:mm:ss**</td>
 	</tr>
 </table>
 
