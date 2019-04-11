@@ -8,6 +8,10 @@
 
 2. biForm 中只使用 TAB 进行缩进，不支持使用空格的缩进格式
 
+## 如何访问表单上的控件
+
+还记是我们给每个控件都设置了“控件名称”的吗？访问表单上的控件，可以直接用 **控件名称** 来访问，也可以用 **this.控件名称** 来访问。访问表单这个对象本身则用**this.form**。
+
 ## 各个字段如何赋值
 
 通过对**数据视图**的设置，我们已经知道了， biForm 在保存一条记录时，会往 t_book 表里添加一条记录，但 t_book 每个字段的值是怎么样的？这一点就需要通过 Python 脚本来进行处理。
@@ -190,7 +194,7 @@ def form_loadrecord(record_uuid):
 ``` python
 	this.leName.text = this.record.fname
 	this.leAuthor.text = this.record.fauthor
-	this.leClass.setCurrentText(this.record.fclass)
+	this.cbClass.setCurrentText(this.record.fclass)
 	this.leISBN.text = this.record.fISBN
 	this.spYear.value = this.record.fyear
 ```
@@ -201,7 +205,7 @@ def form_loadrecord(record_uuid):
 
 在**脚本编辑器**中，转到“表单”的“保存前“脚本，如下图：
 
-![脚本编辑器](first_15.png)
+![保存前脚本](first_15.png)
 
 可以看到缺省的函数定义是这样的：
 
