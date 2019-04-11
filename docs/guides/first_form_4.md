@@ -36,7 +36,7 @@ biForm 中按**F5**就可以试运行一下。
 
 得到以下结果：
 
-``` python
+``` 
 --- lineEditDelegate ---
 Properties:
 objectName (QString )
