@@ -1,7 +1,6 @@
 ﻿# 快速开始
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 如果你想编写基于 biForm 的应用或详细了解 biForm 的内容，那么你来对地方了。
 随着 biForm 的发展，本文档还会不断更新。如果找不到你需要的信息，请告诉我们，我们会尽力添加相关内容，并在此过程中帮助你！
