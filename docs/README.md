@@ -70,6 +70,8 @@ biReader 与 浏览器的主要不同之处在于：
 
 目前发布的版本是 **biForm V3.1** 和 **biReaderV3.1**。
 
+[下载biForm V3.1](https://www.bilive.com/site_media/media/setup/Setup_biform_V3.1.msi)
+
 biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008等数据库管理系统。操作系统目前发布的版本仅支持Windows各系列版本。未来会发布支持其他DBMS、其它操作系统的版本。
 
 

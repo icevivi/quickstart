@@ -1,4 +1,6 @@
-﻿# 联系 BiForm 开发团队
+﻿# 联系 biForm 开发团队
 
 
-请加微信：
+邮箱地址：bilive@foxmail.com
+
+
