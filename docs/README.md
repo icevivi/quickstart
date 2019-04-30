@@ -77,10 +77,18 @@ biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008等数据库管理系统
 
 ## 从一个简单的表单开始使用 biForm
 
- 
+通过这个[书籍清单管理的例子](guides/first_form)了解如何使用 biForm。 
+
 
 ## 获取开发者账号
 
+联系biForm开发团队 <bilive@foxmail.com> ，获取开发者账号。
+
+注册过开发者账号之后，biForm发布的PFF可不受限制使用。
+
+未经注册的biForm，开发生成的PFF在最终用户处使用时会受到一定限制。
 
 ## 获取更多文档和帮助
+
+访问 [biForm 官方网站](https://www.bilive.com) 获得更多文档和帮助。
 
