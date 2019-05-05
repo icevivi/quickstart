@@ -12,6 +12,7 @@
   - [编写脚本](guides/first_form_3)
   - [试运行](guides/first_form_4)
   - [打包发布](guides/first_form_5)
+  - [总结一下](guides/first_form_6)
 - [表单之间的关联](guides/relative_form)
   - [打开其它表单](guides/other_form_1)
   - [打开其它表单并转到某一条记录](guides/other_form_2)
