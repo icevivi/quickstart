@@ -12,7 +12,8 @@
   - [编写脚本](guides/first_form_3)
   - [试运行](guides/first_form_4)
   - [打包发布](guides/first_form_5)
-  - [最终用户处的运行](guides/first_form_6)
 - [表单之间的关联](guides/relative_form)
-  - [再加一个表单](guides/relative_form_1)
-
+  - [打开其它表单](guides/other_form_1)
+  - [打开其它表单并转到某一条记录](guides/other_form_2)
+  - [打开其它表单并转到列表状态](guides/other_form_3)
+  - [共享数据](guides/other_form_4)
