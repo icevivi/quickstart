@@ -61,7 +61,7 @@ def DB_t_book_ID_bindvalue(index=1):
 	</tr>
 	<tr>
 		<td>fauthor 作者</td>
-		<td>result = this.leAuthor</td>
+		<td>result = this.leAuthor.text</td>
 		<td>取 leName 控件中输入的文本</td>
 	</tr>
 	<tr>
