@@ -3,12 +3,13 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
 如果你想编写基于 biForm 的应用或详细了解 biForm 的内容，那么你来对地方了。
+
 随着 biForm 的发展，本文档还会不断更新。如果找不到你需要的信息，请告诉我们，我们会尽力添加相关内容，并在此过程中帮助你！
 
 
 ## 简单介绍一下 biForm
 
-biForm 是一个以 Python 3 为脚本语言的集成化开发工具。底层使用了Qt 5。
+biForm 是一个以 Python3 为脚本语言的集成化开发工具。底层使用了 Qt5。
 
 目前最新版本 V3.1 基于 Python 3.6 及 Qt 5.11.1。
 
@@ -70,9 +71,17 @@ biReader 与 浏览器的主要不同之处在于：
 
 目前发布的版本是 **biForm V3.1** 和 **biReaderV3.1**。
 
-[下载biForm V3.1](https://www.bilive.com/site_media/media/setup/Setup_biform_V3.1.msi)
+[下载biForm V3.1 其中已包含biReader V3.1](https://www.bilive.com/site_media/media/setup/Setup_biform_V3.1.msi)
 
-biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008等数据库管理系统。操作系统目前发布的版本仅支持Windows各系列版本。未来会发布支持其他DBMS、其它操作系统的版本。
+[下载 Linux 版本，在 Deepin Linux V15.10 上编译和测试过](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_linux_20190523.zip)
+
+[更多文档](https://www.bilive.com/site_media/media/setup/bilive_doc.zip)
+
+[本文档所用示例下载](https://www.bilive.com/site_media/media/setup/bilive_demo.zip)
+
+biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008、PostgreSQL等数据库管理系统。
+
+操作系统目前发布的版支持Windows系列各版本及Linux部分发行版。未来会陆续发布支持其他DBMS、其它操作系统的版本。
 
 
 ## 从一个简单的表单开始使用 biForm
@@ -90,5 +99,5 @@ biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008等数据库管理系统
 
 ## 获取更多文档和帮助
 
-访问 [biForm 官方网站](https://www.bilive.com) 获得更多文档和帮助。
+访问 [官方网站](https://www.bilive.com) 获得更多文档和帮助。
 
