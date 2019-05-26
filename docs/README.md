@@ -73,7 +73,11 @@ biReader 与 浏览器的主要不同之处在于：
 
 [下载biForm V3.1 其中已包含biReader V3.1](https://www.bilive.com/site_media/media/setup/Setup_biform_V3.1.msi)
 
-[下载 Linux 版本，在 Deepin Linux V15.10 上编译和测试过](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_linux_20190523.zip)
+Linux 版本
+
+[下载 Deepin Linux V15.10 amd 64bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_linux_20190523.zip)
+
+[下载 Linux Mint V19.1 mate 64Bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_mint19_20190526.zip)
 
 [更多文档](https://www.bilive.com/site_media/media/setup/bilive_doc.zip)
 
