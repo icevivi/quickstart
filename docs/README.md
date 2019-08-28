@@ -69,19 +69,23 @@ biReader 与 浏览器的主要不同之处在于：
 
 目前发布的版本是 **biForm V3.1** 和 **biReaderV3.1**。
 
+Windows 版本
+
 [下载biForm V3.1 其中已包含biReader V3.1](https://www.bilive.com/site_media/media/setup/Setup_biform_V3.1.msi)
 
 Linux 版本
 
-[下载 Deepin Linux V15.10 amd 64bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_linux_20190523.zip)
+[下载 Deepin Linux V15.10 amd 64bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_amd64_20190819.zip)
 
-[下载 Linux Mint V19.1 mate 64Bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_mint19_20190526.zip)
+[下载 Deepin Linux V15.5 龙芯 64bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_loongson_20190819.zip)
+
+[下载 Linux Mint V19.1 mate 64bit 适用版](https://www.bilive.com/site_media/media/setup/biform_v3.1.001_mint19_20190526.zip)
 
 [更多文档](https://www.bilive.com/site_media/media/setup/bilive_doc.zip)
 
 [本文档所用示例下载](https://www.bilive.com/site_media/media/setup/bilive_demo.zip)
 
-biReader V3.1 支持SQLite、MS SQL Server2000/2005/2008、PostgreSQL等数据库管理系统。
+biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据库管理系统。
 
 操作系统目前发布的版支持Windows系列各版本及Linux部分发行版。未来会陆续发布支持其他DBMS、其它操作系统的版本。
 
