@@ -1,6 +1,6 @@
-﻿# biForm
+﻿# bilive.com 文档中心
 
-- [快速开始](/)
+- [主页](/)
 
 - [认识 biForm](/guides/basic)
   - [一切皆为表单](guides/pff)
