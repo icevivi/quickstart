@@ -9,4 +9,4 @@ biForm适合于开发需要图形化用户界面（GUI）的各类桌面应用�
 
 PFF表单本身是与数据库系统、操作系统无关的。一般情况下，同一个PFF表单，在最终用户实际使用时，可以按照自己的需要，选择自己使用的数据库管理系统，表单的功能不会受到影响。但也有些PFF表单是专门针对某类数据库管理系统设计的，那这种表单就只能使用某个特定的数据库管理系统。
 
-目前发布的biForm V3.1和biReaderV3.1支持SQLite、MS SQL Server2000/2005/2008等数据库管理系统。操作系统目前发布的版本仅支持Windows各系列版本。将来会继续发布支持Sybase、Oracle、PostgreSQL，及可在Linux、Mac OS X操作系统上运行的版本。
+目前发布的biForm V3.1和biReaderV3.1支持SQLite、MS SQL Server2000/2005/2008、PostgreSQL等数据库管理系统。操作系统目前发布的版本支持Windows系列版本及部分Linux发行版。将来会继续发布支持更多的RDBMS和其它Linux发行版、Mac OS X操作系统的版本。

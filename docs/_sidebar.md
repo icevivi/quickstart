@@ -1,4 +1,4 @@
-- [导航](/)
+- [**导航**](/)
 
 - [**biForm 快速入门**](biform_quickstart)
   - [认识 biForm](/guides/basic)
@@ -17,7 +17,7 @@
     - [打开其它表单并转到某一条记录](guides/other_form_2)
     - [打开其它表单并转到列表状态](guides/other_form_3)
     - [共享数据](guides/other_form_4)
-- [biReader 快速入门](bireader_quickstart)
+- [**biReader 快速入门**](bireader_quickstart)
   - [认识 biReader](/bireader_quickstart/basic)
   - [一切皆为表单](/bireader_quickstart/pff)
   - [复杂应用：多个表单一起工作](/bireader_quickstart/pfp)
