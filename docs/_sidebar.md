@@ -1,5 +1,3 @@
-﻿# bilive.com 文档中心
-
 - [主页](/)
 
 - [认识 biForm](/guides/basic)
