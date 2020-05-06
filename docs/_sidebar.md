@@ -2,7 +2,6 @@
 
 - [**biForm 快速入门**](biform_quickstart)
   - [认识 biForm](/guides/basic)
-    - [一切皆为表单](guides/pff)
     - [Hello,world!](guides/hello)
     - [biForm 标准开发步骤](guides/spec)
   - [第一个基于 biForm 的表单](guides/first_form)
@@ -19,7 +18,7 @@
     - [共享数据](guides/other_form_4)
 - [**biReader 快速入门**](bireader_quickstart)
   - [认识 biReader](/bireader_quickstart/basic)
-  - [一切皆为表单](/bireader_quickstart/pff)
+  - [从第一个PFF开始：一切皆为表单](/bireader_quickstart/pff)
   - [复杂应用：多个表单一起工作](/bireader_quickstart/pfp)
   - [数据收藏夹](/bireader_quickstart/bookmark)
   - [数据源](/bireader_quickstart/database)
