@@ -35,7 +35,7 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 
 使用不同的数据库管理系统，PFF表单的功能一般不会受到影响。但也有些PFF表单是专门针对某类数据库管理系统设计的，那这种表单就只能使用特定的数据库管理系统。
 
-通过[快速入门biReader](bireader_quickstart)您可以了解更多关于如何使用biReader的信息。
+通过[biReader快速入门](bireader_quickstart)您可以了解更多关于如何使用biReader的知识。
 
 ### biReader 和 PFF 的关系
 
