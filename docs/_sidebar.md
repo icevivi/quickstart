@@ -1,6 +1,6 @@
 - [导航](/)
 
-- **[biForm 快速入门]**(biform_quickstart)
+**- [biForm 快速入门](biform_quickstart)**
   - [认识 biForm](/guides/basic)
     - [一切皆为表单](guides/pff)
     - [Hello,world!](guides/hello)
