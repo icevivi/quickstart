@@ -10,11 +10,11 @@ PFF表单之间是一种松耦合的关联关系。
 
 表单之间可以有以下几种关系，在 biForm 中通过设计和Python脚本，就可以指定这些关联关系。这样，多个表单就可以集成起来协同完成更复杂的功能。
 
-- [打开其它表单](guides/other_form_1)
+- [调用其它表单](guides/other_form_1)
 
-- [打开其它表单并转到某一条记录](guides/other_form_2)
+- [调用其它表单并转到某一条记录](guides/other_form_2)
 
-- [打开其它表单并转到列表状态](guides/other_form_3)
+- [调用其它表单并转到列表状态](guides/other_form_3)
 
 - [共享数据](guides/other_form_4)
 
