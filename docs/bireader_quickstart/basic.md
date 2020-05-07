@@ -1,5 +1,7 @@
 # biReader 快速入门 - 认识 biReader
 
+[返回目录](/bireader_quickstart)
+
 ## biReader 是什么？
 
 biReader 是一个跨平台的桌面软件应用平台。
