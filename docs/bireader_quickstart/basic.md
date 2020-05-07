@@ -32,3 +32,5 @@ biReader 将支持应用商店以及开发者社区，开发者开发的应用�
 
 首先下载 biReader 并安装，通过 bilive.com 网站购买并下载您需要的应用，当然有些应用是可以免费下载的。下载的应用以PFF文件或PFP文件形式存在，通过 biReader 打开这些文件，就可以使用这些应用了。
 
+
+[返回目录](/bireader_quickstart)

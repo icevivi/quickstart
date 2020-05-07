@@ -1,5 +1,7 @@
 # biReader快速入门 - 数据源
 
+[返回目录](/bireader_quickstart)
+
 ## biReader 支持哪些数据库管理系统？
 
 目前发布的 biReader V3.1 支持 SQLite、MSSQL SERVER 2000/2005/2008、PostgreSQL等数据库管理系统。
@@ -28,3 +30,4 @@
 
 但这种情况下，一次只能连接到一个数据源。如果您想同时使用多个系统（各自有不同的数据源），可以安装多个 biReader 实例，每个实例各自连接到不同的数据源，这样就可以同时使用了。
 
+[返回目录](/bireader_quickstart)
