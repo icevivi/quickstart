@@ -5,13 +5,20 @@ biReader是新一代创新的软件应用平台，花上几分钟时间通过本
 通过以下几个章节，您可以快速了解到关于biReader的入门知识。
 
 [biReader 是什么？](/bireader_quickstart/basic)
+
 [从第一个PFF开始使用biReader](/bireader_quickstart/pff)
+
 [biReader如何构成复杂的应用](/bireader_quickstart/pfp)
+
 [管理数据源](/bireader_quickstart/database)
+
 [管理多个用户](/bireader_quickstart/usersystem)
+
 [多个应用如何组合成大型的应用](/bireader_quickstart/apps)
+
 [易于反牚的升级](/bireader_quickstart/upgrade)
-[给二次开发和扩展](/bireader_quickstart/dev)
+
+[二次开发和扩展](/bireader_quickstart/dev)
 
 
 ## 如何获取
