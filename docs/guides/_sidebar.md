@@ -1,4 +1,4 @@
-- [**导航**](/)
+- [**返回文档中心**](/)
 
 - [**biForm 快速入门**](biform_quickstart)
   - [认识 biForm](/guides/basic)

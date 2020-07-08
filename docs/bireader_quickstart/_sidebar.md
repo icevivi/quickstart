@@ -1,4 +1,4 @@
-- [**导航**](/)
+- [**返回文档中心**](/)
 
 - [**biReader 快速入门**](bireader_quickstart)
   - [认识 biReader](/bireader_quickstart/basic)
