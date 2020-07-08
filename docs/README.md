@@ -2,7 +2,7 @@
 
 ---
 
-[biForm快速入门](/biform_quickstart)
+[biForm快速入门](/guides/biform_quickstart)
 
 [biReader快速入门](/bireader_quickstart)
 
