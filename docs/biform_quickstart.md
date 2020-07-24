@@ -1,4 +1,4 @@
-﻿# biForm 快速入门
+# biForm 快速入门
 
 通过本文，您可以了解到基于 biForm 的一些主要信息，并了解到如何使用 biForm 进行开发。
 
@@ -50,7 +50,15 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 
 目前发布的版本是 **biForm V3.1.001** 和 **biReaderV3.1.001**。
 
-Linux 社区免费版
+### Windows 版本
+
+[biForm V3.1.001](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.001.msi)
+
+[biReader V3.1.001](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
+
+### Linux 社区免费版
+
+Deepin 和 UOS 版本请通过 Deepin 和 UOS 的软件商店直接下载安装。
 
 [biForm V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_amd64.deb)
 

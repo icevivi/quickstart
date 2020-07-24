@@ -1,4 +1,4 @@
-﻿# biReader 快速入门
+# biReader 快速入门
 
 biReader是新一代创新的软件应用平台，花上几分钟时间通过本文您可以了解到关于 biReader 的一些基础概念，这些都会帮助您将来更好地使用 biReader 提供的基础特性及应用平台提供的丰富的应用。
 
@@ -36,6 +36,14 @@ biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据
 ### Linux 版本
 
 Deepin 和 UOS 版本请通过 Deepin 和 UOS 的软件商店直接下载安装。
+
+[biReader  V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_amd64.deb)
+
+[biReader V3.1.001 ARM64|麒麟|飞腾 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_arm64.deb)
+
+[biReader V3.1.001 MIPS64EL|龙芯](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_mips64el.deb)
+
+[biReader V3.1.001 申威 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_sw_64.deb)
 
 ## 获取更多信息和帮助
 
