@@ -29,11 +29,11 @@ biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据
 
 操作系统目前发布的版支持Windows系列各版本及Linux部分发行版。未来会陆续发布支持其他DBMS、其它操作系统的版本。
 
-### Windows 版本
+### Windows 社区免费版
 
 [下载 biReader V3.1](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
 
-### Linux 版本
+### Linux 社区免费版
 
 Deepin V20和 UOS 适用版本请通过应用商店直接安装。
 

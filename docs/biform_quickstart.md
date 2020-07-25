@@ -50,7 +50,7 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 
 目前发布的版本是 **biForm V3.1.001** 和 **biReaderV3.1.001**。
 
-### Windows 版本
+### Windows 社区免费版
 
 [biForm V3.1.001（已带biReader）](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.001.msi)
 
@@ -58,7 +58,7 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 
 ### Linux 社区免费版
 
-Deepin 和 UOS 版本请通过 Deepin 和 UOS 的软件商店直接下载安装。
+Deepin V20 和 UOS 适用版本请通过应用商店直接安装。
 
 [biForm V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_amd64.deb)
 
