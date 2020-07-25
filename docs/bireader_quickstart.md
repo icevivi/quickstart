@@ -31,11 +31,11 @@ biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据
 
 ### Windows 版本
 
-[下载 biReader V3.1](https://www.bilive.com/site_media/media/setup/Setup_bireader_V3.1.msi)
+[下载 biReader V3.1](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
 
 ### Linux 版本
 
-Deepin 和 UOS 版本请通过 Deepin 和 UOS 的软件商店直接下载安装。
+Deepin V20和 UOS 适用版本请通过应用商店直接安装。
 
 [biReader  V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_amd64.deb)
 

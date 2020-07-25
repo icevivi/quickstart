@@ -52,7 +52,7 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 
 ### Windows 版本
 
-[biForm V3.1.001](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.001.msi)
+[biForm V3.1.001（已带biReader）](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.001.msi)
 
 [biReader V3.1.001](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
 
