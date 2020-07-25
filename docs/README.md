@@ -1,10 +1,10 @@
-﻿# bilive.com 快速入门指南
+# bilive.com 快速入门指南
 
 ---
 
 [biForm快速入门](/guides/biform_quickstart)
 
-[biReader快速入门](/bireader_quickstart)
+[biReader快速入门](/bireader_quickstart/main)
 
 ---
 
