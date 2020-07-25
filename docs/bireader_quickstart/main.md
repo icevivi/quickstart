@@ -31,7 +31,7 @@ biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据
 
 ### Windows 社区免费版
 
-[下载 biReader V3.1](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
+[biReader V3.1.001](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
 
 ### Linux 社区免费版
 
