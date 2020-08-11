@@ -16,7 +16,7 @@
 
 [读取 Excel 文件中的数据制作数据仪表盘](http://staticpages.bilive.com/#/plotdemo/plotdemo)
 
-
+[biForm 是如何使用 Python 的](http://staticpages.bilive.com/#/biform_py/index)
 
 ?> 更多文档和信息，请访问公司网站 [bilive.com](https://www.bilive.com)
 
