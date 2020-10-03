@@ -18,8 +18,6 @@
 
 [biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
 
----
-
 ## 开发参考
 
 [WPS Office for Linux 二次开发演示](http://staticpages.bilive.com/#/wps/rpc)
@@ -29,6 +27,8 @@
 [biForm 是如何使用 Python 的](http://staticpages.bilive.com/#/biform_py/index)
 
 [biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
+
+
 
 ?> 更多文档和信息，请访问公司网站 [bilive.com](https://www.bilive.com)
 
