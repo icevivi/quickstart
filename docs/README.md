@@ -10,13 +10,13 @@
 
 ## biForm 基础知识
 
-- [biForm 与其它 IDE 的对比](/biform_py/ide) 
+[biForm 与其它 IDE 的对比](http://staticpages.bilive.com/#/biform_py/ide) 
 
-- [biForm 中表单的上下文环境](/biform_py/context)
+[biForm 中表单的上下文环境](http://staticpages.bilive.com/#/biform_py/context)
 
-- [biForm 和 Qt](/biform_py/qt)
+[biForm 和 Qt](http://staticpages.bilive.com/#/biform_py/qt)
 
-- [biForm 中的UUID](/biform_uuid/uuid)
+[biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
 
 ---
 
