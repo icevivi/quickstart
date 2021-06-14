@@ -41,8 +41,6 @@ class formclass_myBook(object):
 
 # ----------------------------------- -----------------------------------
 this = formclass_myBook(myBook)
-gbk = sys.modules.get('__main__').gbk
-gbkList = sys.modules.get('__main__').gbkList
 
 class objMaintable:
 	'''表单：t_book 的主表的记录对象'''
@@ -156,7 +154,7 @@ def form_loadrecord(record_uuid):
 	if this.record.isEmpty:
 		return
 	record=this.record.data
-	log.info('#'+gbk('form')+':Load record')
+	log.info('#form:Load record')
 	#--*<debugtag>*-- 0;form;Load record
 	#以下写入你自己的脚本:
 	this.leName.text = this.record.fname
@@ -171,7 +169,7 @@ def form_loadrecord(record_uuid):
 def form_beforesave():
 	'''这段脚本将在保存表单数据前被调用。如果允许保存，则返回 True，否则返回 False。'''
 	result = True
-	log.info('#'+gbk('form')+':Before save')
+	log.info('#form:Before save')
 	#--*<debugtag>*-- 0;form;Before save
 	#以下写入你自己的脚本:
 	if len(this.leName.text)==0:
@@ -189,8 +187,8 @@ def form_beforesave():
 # ----------------------------------- -----------------------------------
 #myBook 的公共模块
 #用这段脚本定义公用的变量和函数.
-log.info(gbk('* 开始加载表单：myBook'))
-log.info(gbk('myBook::Public module'))
+log.info('* 开始加载表单：myBook')
+log.info('myBook::Public module')
 #--*<debugtag>*-- 0;form;:Public module
 #以下写入你自己的脚本:
 
@@ -200,7 +198,7 @@ def DB_t_book_fyear_bindvalue(index=1):
 	'''这段脚本会在需要向表的字段写入值时调用.
 	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
 	result = ''
-	log.info('#'+gbk('t_book_fyear')+':Bind value')
+	log.info('#t_book_fyear:Bind value')
 	#--*<debugtag>*-- 5;t_book_fyear;Bind value
 	#以下写入你自己的脚本:
 	result = this.spYear.value
@@ -210,7 +208,7 @@ def DB_t_book_fISBN_bindvalue(index=1):
 	'''这段脚本会在需要向表的字段写入值时调用.
 	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
 	result = ''
-	log.info('#'+gbk('t_book_fISBN')+':Bind value')
+	log.info('#t_book_fISBN:Bind value')
 	#--*<debugtag>*-- 5;t_book_fISBN;Bind value
 	#以下写入你自己的脚本:
 	result = this.leISBN.text
@@ -220,7 +218,7 @@ def DB_t_book_fauthor_bindvalue(index=1):
 	'''这段脚本会在需要向表的字段写入值时调用.
 	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
 	result = ''
-	log.info('#'+gbk('t_book_fauthor')+':Bind value')
+	log.info('#t_book_fauthor:Bind value')
 	#--*<debugtag>*-- 5;t_book_fauthor;Bind value
 	#以下写入你自己的脚本:
 	result = this.leAuthor.text
@@ -230,7 +228,7 @@ def DB_t_book_fclass_bindvalue(index=1):
 	'''这段脚本会在需要向表的字段写入值时调用.
 	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
 	result = ''
-	log.info('#'+gbk('t_book_fclass')+':Bind value')
+	log.info('#t_book_fclass:Bind value')
 	#--*<debugtag>*-- 5;t_book_fclass;Bind value
 	#以下写入你自己的脚本:
 	result = this.cbClass.currentText
@@ -240,7 +238,7 @@ def DB_t_book_fname_bindvalue(index=1):
 	'''这段脚本会在需要向表的字段写入值时调用.
 	参数 'index' 是记录的序号,由 1 开始记数.返回待写入的值.'''
 	result = ''
-	log.info('#'+gbk('t_book_fname')+':Bind value')
+	log.info('#t_book_fname:Bind value')
 	#--*<debugtag>*-- 5;t_book_fname;Bind value
 	#以下写入你自己的脚本:
 	result = this.leName.text
