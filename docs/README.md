@@ -1,8 +1,12 @@
-# bilive.com 快速入门指南
+# biLive应用框架
 
 ---
 
 ## 快速入门
+
+[biLive应用框架](/bilive/bilive_framework)
+
+[智应软件中心](/dsizpp/dziapp)
 
 [biForm快速入门](/guides/biform_quickstart)
 
@@ -20,6 +24,8 @@
 
 ## 开发参考
 
+[biForm开发参考](http://api.bilive.com/#) 
+
 [WPS Office for Linux 二次开发演示](http://staticpages.bilive.com/#/wps/rpc)
 
 [读取 Excel 文件中的数据制作数据仪表盘](http://staticpages.bilive.com/#/plotdemo/plotdemo)
@@ -27,7 +33,6 @@
 [biForm 是如何使用 Python 的](http://staticpages.bilive.com/#/biform_py/index)
 
 [biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
-
 
 
 ?> 更多文档和信息，请访问公司网站 [bilive.com](https://www.bilive.com)
