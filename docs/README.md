@@ -6,7 +6,7 @@
 
 [biLive应用框架](/bilive/bilive_framework)
 
-[智应软件中心](/dsizpp/dziapp)
+[智应软件中心](/dziapp/dziapp)
 
 [biForm快速入门](/guides/biform_quickstart)
 
