@@ -12,6 +12,5 @@
 
 - [**下载中心**](/download/index)
 
-- [**其它文档**](http://staticpages.bilive.com/#/)
+- [**更多参考文档**](http://staticpages.bilive.com/#/)
 
- 

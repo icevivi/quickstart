@@ -12,7 +12,7 @@
 
 [biForm快速入门](/guides/biform_quickstart)
 
-[biForm 开发参考](http://api.bilive.com/#/)
+[biForm开发参考](http://api.bilive.com/#/)
 
 [如何为智应软件中心开发软件？](/dziapp/howto)
 
@@ -22,7 +22,7 @@
 
 [biReader](/bireader/bireader)
 
-## 下载
+## 下载和安装
 
 [下载中心](/download/index)
 
@@ -30,7 +30,7 @@
 
 [参考文档](http://staticpages.bilive.com/#/) 
 
-?> 更多文档和信息，请访问公司网站 [bilive.com](https://www.bilive.com)
+---
 
-本文档中心所有文档除非特别说明，著作权属武汉百利孚信息科技有限公司所有。
+本文档中心所有文档除非特别说明，所有知识产权属武汉百利孚信息科技有限公司所有，受国家相关法律保护。
  
