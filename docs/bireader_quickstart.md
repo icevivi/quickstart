@@ -1,7 +1,5 @@
 # biReader 快速入门
 
-biReader是新一代创新的软件应用平台，花上几分钟时间通过本文您可以了解到关于 biReader 的一些基础概念，这些都会帮助您将来更好地使用 biReader 提供的基础特性及应用平台提供的丰富的应用。
-
 通过以下几个章节，您可以快速了解到关于biReader的入门知识。
 
 [biReader 是什么？](/bireader_quickstart/basic)
@@ -16,10 +14,9 @@ biReader是新一代创新的软件应用平台，花上几分钟时间通过本
 
 [多个应用如何组合成大型的应用](/bireader_quickstart/apps)
 
-[易于反牚的升级](/bireader_quickstart/upgrade)
+[易于反掌的升级](/bireader_quickstart/upgrade)
 
 [二次开发和扩展](/bireader_quickstart/dev)
-
 
 ## 如何获取
 
