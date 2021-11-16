@@ -14,7 +14,7 @@ biLive框架有自己独特的架构设计，目标是打造**从整体上更具
 
 ### 为什么说是“**从整体上**”？
 
-桌面应用程序的开发框架有很多。但通常会存在这样一个问题：“**即使是使用的相同的应用框架，不同的开发者开发出的应用程序之间也很难集成、很难协同**”。
+桌面应用程序的开发框架有很多。但我们经常会发现：“**即使是使用的相同的应用框架，不同的开发者开发出的应用程序之间也很难集成、很难协同**”。
 
 这里“很难集成、很难协同”并不是指具体两个应用程序之间，而是指“任意两个应用程序”之间。
 
@@ -248,7 +248,7 @@ biLive框架提供了通用的跨平台方案，开发者不需要特意考虑�
 - 内置丰富的图标和图片库
 - 自动进行版本管理
 - 标准控件库
-- Qt5核心库(QtCore, QtGui, QtMultimedia, QtNetwork, QtOpenGL, QtSql, QtSvg, QtUiTools, QtXml, QtXmlPatterns ,Qt namespace,QtWidgets,QtSerialPort )
+- Qt5核心库(QtCore, QtGui, QtMultimedia, QtNetwork, QtOpenGL, QtSql, QtSvg, QtUiTools, QtXml, QtXmlPatterns ,Qt namespace,QtWidgets,QtSerialPort)
 - Python第三方库(内置50多个第三方库，包括numpy、pygraphviz、matplotlib、pandas、reportlab、crypto等)
 
 ### 3）易于发布和升级
