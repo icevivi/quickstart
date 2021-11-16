@@ -13,5 +13,7 @@ PFF应用程序包括PFF和PFP两种发布形式，都是biLive应用框架特�
 
 智应软件中心目前的版本是单实例的。目前支持Windows7/8/10及多个Linux发行版，支持x86_64/AMD64、ＡＲＭ64、mips64el、loongarch64、申威等ＣＰＵ架构类型。
 
+[下载中心](/download/index)
+
 [如何为智应软件中心开发软件？](/dziapp/howto)
 

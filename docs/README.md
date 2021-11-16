@@ -1,41 +1,36 @@
-# biLive应用框架
+# biLive文档中心
 
 ---
 
-## 快速入门
+## 应用框架
 
 [biLive应用框架](/bilive/bilive_framework)
 
-[智应软件中心](/dziapp/dziapp)
+[biLive运行时引擎](/runtimeengine/index)
 
-[如何为智应软件中心开发软件？](/dziapp/howto)
+### 开发
 
 [biForm快速入门](/guides/biform_quickstart)
 
-[biReader快速入门](/bireader_quickstart/main)
+[biForm 开发参考](http://api.bilive.com/#/)
 
-## biForm 基础知识
+[如何为智应软件中心开发软件？](/dziapp/howto)
 
-[biForm 与其它 IDE 的对比](http://staticpages.bilive.com/#/biform_py/ide) 
+## 运行时环境
 
-[biForm 中表单的上下文环境](http://staticpages.bilive.com/#/biform_py/context)
+[智应软件中心](/dziapp/dziapp)
 
-[biForm 和 Qt](http://staticpages.bilive.com/#/biform_py/qt)
+[biReader](/bireader/bireader)
 
-[biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
+## 下载
 
-## 开发参考
+[下载中心](/download/index)
 
-[biForm开发参考](http://api.bilive.com/#) 
+## 其它文档
 
-[WPS Office for Linux 二次开发演示](http://staticpages.bilive.com/#/wps/rpc)
-
-[读取 Excel 文件中的数据制作数据仪表盘](http://staticpages.bilive.com/#/plotdemo/plotdemo)
-
-[biForm 是如何使用 Python 的](http://staticpages.bilive.com/#/biform_py/index)
-
-[biForm 中的UUID](http://staticpages.bilive.com/#/biform_uuid/uuid)
-
+[参考文档](http://staticpages.bilive.com/#/) 
 
 ?> 更多文档和信息，请访问公司网站 [bilive.com](https://www.bilive.com)
+
+本文档中心所有文档除非特别说明，著作权属武汉百利孚信息科技有限公司所有。
 
