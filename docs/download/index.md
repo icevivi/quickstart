@@ -30,43 +30,41 @@
 
 [返回目录](#category)
 
-### - Windows 7/8/10 适用版本
+此版本是为合作伙伴[南京龙众创芯电子科技有限公司](http://www.loongmasses.cn/)提供的定制版本。“龙众创芯”为该公司注册商标。
 
-[biForm_lzcx V3.1.005 (Windows)](https://www.bilive.com/site_media/media/setup/biform/setup_biform_lzcx_v3.1.005.msi)
+### - 龙芯平台适用版本
 
-### - 统信UOS/Deepin V20 适用版本
+#### - LoongArch64 架构
 
-[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_loongarch64.deb)
+[biForm_lzcx V3.1.005 Loongnix v20 适用 (LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix_loongarch64.deb)
 
-[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_mips64el.deb)
+[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_loongarch64.deb)
 
-[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_amd64.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_loongarch64.deb)
 
-[biForm_lzcx V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_arm64.deb)
+#### - Mips64 架构
 
-### - Loongnix v1.0.2003 适用版本
+[biForm_lzcx V3.1.005 Loongnix v1.0.2003 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc21.loongson.mips64el.rpm)
 
-[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc21.loongson.mips64el.rpm)
+[biForm_lzcx V3.1.005 Loongnix v20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix21_mips64el.deb)
 
-### - Loongnix v20 适用版本
+[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_mips64el.deb)
 
-[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix21_mips64el.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_mips64el.deb)
 
-[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix_loongarch64.deb)
+### -其它平台
 
-### - 银河麒麟 V10 适用版本
+[biForm_lzcx V3.1.005 Windows 7/8/10 适用](https://www.bilive.com/site_media/media/setup/biform/setup_biform_lzcx_v3.1.005.msi)
 
-[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_mips64el.deb)
+[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_amd64.deb)
 
-[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_amd64.deb)
+[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_arm64.deb)
 
-[biForm_lzcx V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_amd64.deb)
 
-[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_loongarch64.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
 
-### - Ubuntu V18.04+ 适用版本
-
-[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_amd64.deb)
+[biForm_lzcx V3.1.005 Ubuntu V18.04+ 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_amd64.deb)
 
 ---
 
