@@ -86,7 +86,7 @@
 
 ### - Windows 7/8/10 适用版本
 
-[dziapp V1.0.001 (Windows](https://www.bilive.com/site_media/media/setup/dziapp/setup_dziapp_v1.0.001.msi)
+[dziapp V1.0.001 (Windows)](https://www.bilive.com/site_media/media/setup/dziapp/setup_dziapp_v1.0.001.msi)
 
 ### - 统信UOS/Deepin V20 适用版本
 
