@@ -12,5 +12,9 @@
 
 - [**下载中心**](/download/index)
 
+ - [最新版本](/download/index)
+
+ - [历史版本](/download/index)
+
 - [**更多参考文档**](http://staticpages.bilive.com/#/)
 
