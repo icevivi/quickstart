@@ -4,11 +4,25 @@
 
 <h2 id=category>目录</h2>
 
-- [biForm 龙众创芯专版](#biform_lzcx)
+- [biForm 社区版 V3.1.005](#biform)
 
-- [智应软件中心(dziapp)](#dziapp)
+- [biForm 社区版(龙众创芯专版) V3.1.005](#biform_lzcx)
+
+- [biReader 社区版 V3.1.005](#bireader)
+
+- [智应软件中心(dziapp) V1.0.001](#dziapp)
 
 - [其它工具](#tools)
+
+---
+
+<h2 id=biform>biForm 社区版 V3.1.005</h2>
+
+[返回目录](#category)
+
+升级测试中......
+
+[历史版本下载](/download/oldversion)
 
 ---
 
@@ -53,6 +67,16 @@
 ### - Ubuntu V18.04+ 适用版本
 
 [biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_amd64.deb)
+
+---
+
+<h2 id=bireader>biReader 社区版 V3.1.005</h2>
+
+[返回目录](#category)
+
+升级测试中......
+
+[历史版本下载](/download/oldversion)
 
 ---
 
