@@ -1,70 +1,116 @@
-# 下载中心
+# 下载中心 - 最新版本
 
 ---
 
-## 社区免费版下载
+<h2 id=category>目录</h2>
 
-### 统信UOS/Deepin V20 适用版本
+- [biForm 龙众创芯专版](#biform_lzcx)
 
-[biForm V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_mips64el.deb)
+- [智应软件中心(dziapp)](#dziapp)
 
-[biReader V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_mips64el.deb)
-
-[biForm V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_amd64.deb)
-
-[biReader V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_amd64.deb)
-
-[biForm V3.1.002 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.002-2_arm64.deb)
-
-[biReader V3.1.002 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.002-2_arm64.deb)
-
-[biForm V3.1.002 (申威)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.002-2_sw_64.deb)
-
-[biReader V3.1.002 (申威)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.002-2_sw_64.deb)
-
-### Loongnix v1.0.2003 适用版本
-
-[biForm V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1.fc21.loongson.mips64el.rpm)
-
-[biReader V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1.fc21.loongson.mips64el.rpm) 
-
-### Loongnix v20 适用版本
-
-[biForm V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_mips64el_loongnix20.deb)
-
-[biReader V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_mips64el_loongnix20.deb)
-
-### 银河麒麟 V10 适用版本
-
-[biForm V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-2_mips64el_kylin.deb)
-
-[biReader V3.1.003 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-2_mips64el_kylin.deb)
-
-[biForm V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_amd64_kylin.deb)
-
-[biReader V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_amd64_kylin.deb)
-
-[biForm V3.1.003 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_arm64_kylin.deb)
-
-[biReader V3.1.003 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_arm64_kylin.deb) 
-
-### Ubuntu V18.04+ 适用版本
-
-[biForm V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.biform_3.1.003-1_amd64_ubuntu.deb)
-
-[biReader V3.1.003 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_3.1.003-1_amd64_ubuntu.deb) 
-
-### Windows 版本
-
-[biForm V3.1.003](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.003.msi)
-
-[biReader V3.1.003](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.003.msi)
+- [其它工具](#tools)
 
 ---
 
-## Windows 版本需要先安装 VC++ Redistributable
+<h2 id=biform_lzcx>biForm 社区版(龙众创芯专版) V3.1.005</h2>
+
+### - Windows 7/8/10 适用版本
+
+[biForm_lzcx V3.1.005 (Windows)](https://www.bilive.com/site_media/media/setup/biform/setup_biform_lzcx_v3.1.005.msi)
+
+### - 统信UOS/Deepin V20 适用版本
+
+[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_loongarch64.deb)
+
+[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_mips64el.deb)
+
+[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_amd64.deb)
+
+[biForm_lzcx V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_arm64.deb)
+
+### - Loongnix v1.0.2003 适用版本
+
+[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc21.loongson.mips64el.rpm)
+
+### - Loongnix v20 适用版本
+
+[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix21_mips64el.deb)
+
+[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix_loongarch64.deb)
+
+### - 银河麒麟 V10 适用版本
+
+[biForm_lzcx V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_mips64el.deb)
+
+[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_amd64.deb)
+
+[biForm_lzcx V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
+
+[biForm_lzcx V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_loongarch64.deb)
+
+### - Ubuntu V18.04+ 适用版本
+
+[biForm_lzcx V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_amd64.deb)
+
+---
+
+<h2 id=dziapp>智应软件中心(dziapp) V1.0.001</h2>
+
+### - Windows 7/8/10 适用版本
+
+[dziapp V1.0.001 (Windows](https://www.bilive.com/site_media/media/setup/dziapp/setup_dziapp_v1.0.001.msi)
+
+### - 统信UOS/Deepin V20 适用版本
+
+[dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_loongarch64.deb)
+
+[dziapp V1.0.001 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_mips64el.deb)
+
+[dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_amd64.deb)
+
+[dziapp V1.0.001 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_arm64.deb)
+
+### - Loongnix v1.0.2003 适用版本
+
+[dziapp V1.0.001 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1.fc21.loongson.mips64el.rpm)
+
+### - Loongnix v20 适用版本
+
+[dziapp V1.0.001 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_loongnix20_mips64el.deb)
+
+[dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_loongnix_loongarch64.deb)
+
+### - 银河麒麟 V10 适用版本
+
+[dziapp V1.0.001 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_mips64el.deb)
+
+[dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_amd64.deb)
+
+[dziapp V1.0.001 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_arm64.deb)
+
+[dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_loongarch64.deb)
+
+### - Ubuntu V18.04+ 适用版本
+
+[dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_amd64.deb)
+
+---
+
+<h2 id=tools>其它工具</h2>
+
+### - Windows 版本需要先安装 VC++ Redistributable
 
 [VC++ Redistributable (32位版）](https://www.bilive.com/site_media/media/setup/vc_redist.x86.exe)
 
 [VC++ Redistributable (64位版）](https://www.bilive.com/site_media/media/setup/vc_redist.x64.exe)
+
+### - Windows 下播放音频需要安装 LAVFilters
+
+下载：[LAVFilters-0.74.1-x64](https://www.bilive.com/site_media/media/tools/LAVFilters-0.74.1-x64.zip)
+
+解压后，在解压的目录下，双击运行以下三个文件即可：
+
+- install_audio.bat
+- install_splitter.bat
+- install_video.bat
 

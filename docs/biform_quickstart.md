@@ -46,44 +46,13 @@ biReader 是供最终用户使用的运行时环境。它的功能是为PFF表�
 - 多个不相关的PFF表单都可以在同一个biReader中使用，互不干扰
 - biReader本身没有具体的面向最终用户的功能，它只是提供运行时底层环境，通过使用PFF文件来实现各种应用
 
-## 版本
+## 下载
 
-目前发布的版本是 **biForm V3.1.001** 和 **biReaderV3.1.001**。
+目前发布的版本是 **biFormV3.1**。
 
-### Windows 社区免费版
+操作系统目前发布的版本支持Windows系列各版本、统信UOS、银行麒麟、Ubuntu、Loongnix等及其它Linux发行版，支持X86_64、 AMD64、ARM64、Mipsel64、LoongArch64、sw_64等多种CPU架构。
 
-[biForm V3.1.001（已带biReader）](https://www.bilive.com/site_media/media/setup/setup_biform_v3.1.001.msi)
-
-[biReader V3.1.001](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
-
-### Linux 社区免费版
-
-Deepin V20 和 UOS 适用版本请通过应用商店直接安装。
-
-[biForm V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_amd64.deb)
-
-[biForm V3.1.001 ARM64|麒麟|飞腾 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_arm64.deb)
-
-[biForm V3.1.001 MIPS64EL|龙芯](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_mips64el.deb)
-
-[biForm V3.1.001 申威 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.biform_v3.1.001-1_sw_64.deb)
-
-[biReader  V3.1.001 AMD64|x86|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_amd64.deb)
-
-[biReader V3.1.001 ARM64|麒麟|飞腾 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_arm64.deb)
-
-[biReader V3.1.001 MIPS64EL|龙芯](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_mips64el.deb)
-
-[biReader V3.1.001 申威 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_sw_64.deb)
-
-[更多文档](https://www.bilive.com/site_media/media/setup/bilive_doc.zip)
-
-[本文档所用示例下载](https://www.bilive.com/site_media/media/setup/bilive_demo.zip)
-
-biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据库管理系统。
-
-操作系统目前发布的版支持Windows系列各版本及Linux部分发行版。未来会陆续发布支持其他DBMS、其它操作系统的版本。
-
+[下载中心](/download/index)
 
 ## 从一个简单的表单开始使用 biForm
 
