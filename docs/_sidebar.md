@@ -14,5 +14,7 @@
 
 - [**历史版本下载**](/download/oldversion)
 
+- [**演示和示例**](/demo/index)
+
 - [**更多参考文档**](http://staticpages.bilive.com/#/)
 
