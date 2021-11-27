@@ -128,9 +128,9 @@ V3.1.005升级测试中......
 
 ### - Windows 版本需要先安装 VC++ Redistributable
 
-[VC++ Redistributable (32位版）](https://www.bilive.com/site_media/media/setup/vc_redist.x86.exe)
+[VC++ Redistributable (32位版）](https://www.bilive.com/site_media/media/tools/vc_redist.x86.exe)
 
-[VC++ Redistributable (64位版）](https://www.bilive.com/site_media/media/setup/vc_redist.x64.exe)
+[VC++ Redistributable (64位版）](https://www.bilive.com/site_media/media/tools/vc_redist.x64.exe)
 
 ### - Windows 下播放音频需要安装 LAVFilters
 
