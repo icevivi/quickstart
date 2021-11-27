@@ -10,6 +10,8 @@
 
 - [**biReader**](bireader/bireader)
 
+- [**安装指南**](/setup/index)
+
 - [**下载中心**](/download/index)
 
 - [**历史版本下载**](/download/oldversion)
