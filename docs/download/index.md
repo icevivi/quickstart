@@ -4,6 +4,8 @@
 
 <h2 id=category>目录</h2>
 
+- [网盘下载](#pan)
+
 - [biForm 社区版 V3.1.005](#biform)
 
 - [biForm 社区版(龙众创芯专版) V3.1.005](#biform_lzcx)
@@ -16,13 +18,65 @@
 
 ---
 
+<h2 id=pan>网盘下载</h2>
+
+本页所有下载的文件都可以通过网盘下载。
+
+### biForm V3.1.005 / biReader V3.1.005
+
+[网盘链接](https://pan.baidu.com/s/1hKhGcxMPC697MRjm4BjP-w)
+
+提取码: yj34
+
+### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001
+
+[网盘链接](https://pan.baidu.com/s/1_Uqa067OsSlEBVP6DgyvSA)
+
+提取码：by4j
+
+---
+
 <h2 id=biform>biForm 社区版 V3.1.005</h2>
 
 [返回目录](#category)
 
-V3.1.005升级测试中......
+### - Windows 7/8/10 适用版本
 
-[历史版本下载](/download/oldversion)
+[biForm V3.1.005 (Windows)](https://www.bilive.com/site_media/media/setup/biform/setup_biform_v3.1.005.msi)
+
+### - 统信UOS/Deepin V20 适用版本
+
+[biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_loongarch64.deb)
+
+[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_mips64el.deb)
+
+[biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_amd64.deb)
+
+[biForm V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_arm64.deb)
+
+### - Loongnix v1.0.2003 适用版本
+
+[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1.fc21.loongson.mips64el.rpm)
+
+### - Loongnix v20 适用版本
+
+[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_loongnix20_mips64el.deb)
+
+[biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_loongnix_loongarch64.deb)
+
+### - 银河麒麟 V10 适用版本
+
+[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_mips64el.deb)
+
+[biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_amd64.deb)
+
+[biForm V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_arm64.deb)
+
+[biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_loongarch64.deb)
+
+### - Ubuntu V18.04+ 适用版本
+
+[biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_amd64.deb)
 
 ---
 
@@ -46,7 +100,7 @@ V3.1.005升级测试中......
 
 [biForm_lzcx V3.1.005 Loongnix v1.0.2003 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc21.loongson.mips64el.rpm)
 
-[biForm_lzcx V3.1.005 Loongnix v20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix21_mips64el.deb)
+[biForm_lzcx V3.1.005 Loongnix v20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_loongnix20_mips64el.deb)
 
 [biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_mips64el.deb)
 
@@ -72,9 +126,43 @@ V3.1.005升级测试中......
 
 [返回目录](#category)
 
-V3.1.005升级测试中......
+### - Windows 7/8/10 适用版本
 
-[历史版本下载](/download/oldversion)
+[biReader V3.1.005 (Windows)](https://www.bilive.com/site_media/media/setup/bireader/setup_bireader_v3.1.005.msi)
+
+### - 统信UOS/Deepin V20 适用版本
+
+[biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_loongarch64.deb)
+
+[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_mips64el.deb)
+
+[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_amd64.deb)
+
+[biReader V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_arm64.deb)
+
+### - Loongnix v1.0.2003 适用版本
+
+[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1.fc21.loongson.mips64el.rpm)
+
+### - Loongnix v20 适用版本
+
+[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_loongnix20_mips64el.deb)
+
+[biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_loongnix_loongarch64.deb)
+
+### - 银河麒麟 V10 适用版本
+
+[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_mips64el.deb)
+
+[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_amd64.deb)
+
+[biReader V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_arm64.deb)
+
+[biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_loongarch64.deb)
+
+### - Ubuntu V18.04+ 适用版本
+
+[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_amd64.deb)
 
 ---
 
