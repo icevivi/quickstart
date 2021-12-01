@@ -28,7 +28,7 @@
 
 提取码: yj34
 
-### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001
+### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001 
 
 [网盘链接](https://pan.baidu.com/s/1_Uqa067OsSlEBVP6DgyvSA)
 
@@ -39,6 +39,8 @@
 <h2 id=biform>biForm 社区版 V3.1.005</h2>
 
 [返回目录](#category)
+
+[biForm 社区版 V3.1.005 发版说明](download/biform_3.1.005)
 
 ### - Windows 7/8/10 适用版本
 
@@ -125,6 +127,8 @@
 <h2 id=bireader>biReader 社区版 V3.1.005</h2>
 
 [返回目录](#category)
+
+[biReader 社区版 V3.1.005 发版说明](download/bireader_3.1.005)
 
 ### - Windows 7/8/10 适用版本
 
