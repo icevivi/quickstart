@@ -28,7 +28,7 @@
 
 提取码: yj34
 
-### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001 
+### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001 / 其它工具
 
 [网盘链接](https://pan.baidu.com/s/1_Uqa067OsSlEBVP6DgyvSA)
 
@@ -76,9 +76,9 @@
 
 [biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_loongarch64.deb)
 
-### - Ubuntu V18.04+ 适用版本
+### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_amd64.deb)
+[biForm V3.1.005 (AMD64|x86_6)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
 
 ---
 
@@ -120,7 +120,7 @@
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
 
-[biForm_lzcx V3.1.005 Ubuntu V18.04+ 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_amd64.deb)
+[biForm_lzcx V3.1.005 Ubuntu V20.04 / Linux mint V20.2 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
 
 ---
 
@@ -164,9 +164,9 @@
 
 [biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_loongarch64.deb)
 
-### - Ubuntu V18.04+ 适用版本
+### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_amd64.deb)
+[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
 
 ---
 
@@ -208,9 +208,9 @@
 
 [dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_loongarch64.deb)
 
-### - Ubuntu V18.04+ 适用版本
+### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_amd64.deb)
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu_amd64.deb)
 
 ---
 
