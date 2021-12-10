@@ -54,7 +54,7 @@
 
 [biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_amd64.deb)
 
-[biForm V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_arm64.deb)
+[biForm V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_uos_arm64.deb)
 
 ### - Loongnix v1.0.2003 适用版本
 
@@ -72,7 +72,7 @@
 
 [biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_amd64.deb)
 
-[biForm V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_arm64.deb)
+[biForm V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_arm64.deb)
 
 [biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_loongarch64.deb)
 
@@ -114,11 +114,11 @@
 
 [biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_amd64.deb)
 
-[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_uos_arm64.deb)
+[biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_uos_arm64.deb)
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_amd64.deb)
 
-[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_arm64.deb)
 
 [biForm_lzcx V3.1.005 Ubuntu V20.04 / Linux mint V20.2 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
 
@@ -142,7 +142,7 @@
 
 [biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_amd64.deb)
 
-[biReader V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_arm64.deb)
+[biReader V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_uos_arm64.deb)
 
 ### - Loongnix v1.0.2003 适用版本
 
@@ -160,7 +160,7 @@
 
 [biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_amd64.deb)
 
-[biReader V3.1.005 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_arm64.deb)
+[biReader V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_arm64.deb)
 
 [biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_loongarch64.deb)
 
@@ -186,7 +186,7 @@
 
 [dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_amd64.deb)
 
-[dziapp V1.0.001 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_uos_arm64.deb)
+[dziapp V1.0.001 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-2_uos_arm64.deb)
 
 ### - Loongnix v1.0.2003 适用版本
 
@@ -204,7 +204,7 @@
 
 [dziapp V1.0.001 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_amd64.deb)
 
-[dziapp V1.0.001 (ARM64|鲲鹏|飞腾)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_arm64.deb)
+[dziapp V1.0.001 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-2_kylin_arm64.deb)
 
 [dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_kylin_loongarch64.deb)
 
