@@ -10,6 +10,8 @@
 
 - [**biReader**](bireader/bireader)
 
+- [**智龙集成开发环境**](smartloong/index)
+
 - [**安装指南**](/setup/index)
 
 - [**下载中心**](/download/index)
