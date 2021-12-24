@@ -30,11 +30,17 @@
 
 提取码: yj34
 
-### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001 / 其它工具
+### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001
 
 [网盘链接](https://pan.baidu.com/s/1_Uqa067OsSlEBVP6DgyvSA)
 
 提取码：by4j
+
+### 其它工具
+
+[网盘链接](https://pan.baidu.com/s/1T1H0Si8xYtT5oiGehJofiA)
+
+提取码: dtn3
 
 ---
 
@@ -82,6 +88,10 @@
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
 
+### - Ubuntu V18 适用版本
+
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu18_amd64.deb)
+
 ### - Manjaro V21 适用版本
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1-x86_64.pkg.tar.zst)
@@ -127,6 +137,8 @@
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_arm64.deb)
 
 [biForm_lzcx V3.1.005 Ubuntu V20.04 / Linux mint V20.2 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
+
+[biForm_lzcx V3.1.005 Ubuntu V18 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu18_amd64.deb)
 
 [biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-x86_64.pkg.tar.zst)
 
@@ -176,6 +188,10 @@
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
 
+### - Ubuntu V18 适用版本
+
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu18_amd64.deb)
+
 ### - Manjaro V21 适用版本
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1-x86_64.pkg.tar.zst)
@@ -222,7 +238,11 @@
 
 ### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu_amd64.deb)
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu20_amd64.deb)
+
+### - Ubuntu V18 适用版本
+
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu18_amd64.deb)
 
 ### - Manjaro V21 适用版本
 
