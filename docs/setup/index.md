@@ -56,6 +56,12 @@ Windows下安装目录是可以在安装时选择的，但一般建议不要装�
 
 ```sudo rpm -ivh rpm文件名 --nodeps --force```
 
+### 4、使用.pkg.tar.zst包进行安装
+
+支持.pkg.tar.zst包的操作系统（如Manjaro），通过命令行安装下载到的文件：
+
+```sudo pacman -U pkg.tar.zst文件名```
+
 ### Linux下的安装目录
 
 Linux平台下的安装目录是固定的：
