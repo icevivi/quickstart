@@ -14,6 +14,8 @@
 
 - [智应软件中心(dziapp) V1.0.001](#dziapp)
 
+- [如何安装](#setup)
+
 - [其它工具](#tools)
 
 ---
@@ -68,7 +70,7 @@
 
 ### - 银河麒麟 V10 适用版本
 
-[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_mips64el.deb)
+[biForm V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-2_kylin_mips64el.deb)
 
 [biForm V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_kylin_amd64.deb)
 
@@ -78,7 +80,11 @@
 
 ### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[biForm V3.1.005 (AMD64|x86_6)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
+
+### - Manjaro V21 适用版本
+
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1-x86_64.pkg.tar.zst)
 
 ---
 
@@ -98,7 +104,7 @@
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_loongarch64.deb)
 
-#### - Mips64 架构
+#### - Mips64el 架构
 
 [biForm_lzcx V3.1.005 Loongnix v1.0.2003 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc21.loongson.mips64el.rpm)
 
@@ -121,6 +127,8 @@
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_arm64.deb)
 
 [biForm_lzcx V3.1.005 Ubuntu V20.04 / Linux mint V20.2 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
+
+[biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-x86_64.pkg.tar.zst)
 
 ---
 
@@ -156,7 +164,7 @@
 
 ### - 银河麒麟 V10 适用版本
 
-[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_mips64el.deb)
+[biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_mips64el.deb)
 
 [biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_amd64.deb)
 
@@ -166,7 +174,11 @@
 
 ### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
-[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
+
+### - Manjaro V21 适用版本
+
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1-x86_64.pkg.tar.zst)
 
 ---
 
@@ -211,6 +223,18 @@
 ### - Ubuntu V20.04 / Linux mint V20.2 适用版本
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu_amd64.deb)
+
+### - Manjaro V21 适用版本
+
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1-x86_64.pkg.tar.zst)
+
+---
+
+<h2 id=setup>如何安装</h2>
+
+[返回目录](#category)
+
+访问[biLive产品安装指南](setup/index)了解如何安装。
 
 ---
 
