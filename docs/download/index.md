@@ -36,7 +36,7 @@
 
 提取码：by4j
 
-### 其它工具
+### 其它工具 / 其它安装程序
 
 [网盘链接](https://pan.baidu.com/s/1T1H0Si8xYtT5oiGehJofiA)
 
@@ -88,13 +88,17 @@
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
 
-### - Ubuntu V18 适用版本
+### - Ubuntu V18 / 红旗 V10 适用版本
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu18_amd64.deb)
 
 ### - Manjaro V21 适用版本
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1-x86_64.pkg.tar.zst)
+
+### - 红旗 V11 适用版本
+
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_redflag11_amd64.deb)
 
 ---
 
@@ -138,7 +142,9 @@
 
 [biForm_lzcx V3.1.005 Ubuntu V20.04 / Linux mint V20.2 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
 
-[biForm_lzcx V3.1.005 Ubuntu V18 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu18_amd64.deb)
+[biForm_lzcx V3.1.005 Ubuntu V18 / 红旗 V10 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu18_amd64.deb)
+
+[biForm_lzcx V3.1.005 红旗 V11 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_redflag11_amd64.deb)
 
 [biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-x86_64.pkg.tar.zst)
 
@@ -188,9 +194,13 @@
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
 
-### - Ubuntu V18 适用版本
+### - Ubuntu V18 / 红旗 V10 适用版本
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu18_amd64.deb)
+
+### - 红旗 V11 适用版本
+
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_redflag11_amd64.deb)
 
 ### - Manjaro V21 适用版本
 
@@ -240,9 +250,13 @@
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu20_amd64.deb)
 
-### - Ubuntu V18 适用版本
+### - Ubuntu V18 / 红旗 V10 适用版本
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu18_amd64.deb)
+
+### - 红旗 V11 适用版本
+
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_redflag11_amd64.deb)
 
 ### - Manjaro V21 适用版本
 
