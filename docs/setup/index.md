@@ -8,6 +8,8 @@
 
 - [Linux版安装](#linux)
 
+- [Linux下中文输入法的问题](#linux_im)
+
 - [多实例](#instance)
 
 - [工作目录](#workspace)
@@ -73,6 +75,30 @@ Linux平台下的安装目录是固定的：
 - biReader安装在 /opt/apps/com.bilive.bireder
 
 - 智应软件中心安装在 /opt/apps/com.bilive.dziapp
+
+---
+
+<h2 id=linux_im>Linux下中文输入法的问题</h2>
+
+[返回目录](#category)
+
+如果您使用的Linux发行版使用的是 ibus 输入法，试下用以下方式处理一下：
+
+在Linux的终端中使用命令：
+
+```shell
+sudo vim /etc/profile
+```
+
+在文件尾加上：
+
+```
+export GTK_IM_MODULE=ibus  
+export XMODIFIERS=@im=ibus  
+export QT_IM_MODULE=ibus
+```
+
+然后重启系统。
 
 ---
 
