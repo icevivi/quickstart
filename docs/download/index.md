@@ -100,6 +100,8 @@
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_redflag11_amd64.deb)
 
+[biForm V3.1.005 (龙芯|mips64el)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_redflag11_mips64el.deb)
+
 ---
 
 <h2 id=biform_lzcx>biForm 社区版(龙众创芯专版) V3.1.005</h2>
@@ -127,6 +129,8 @@
 [biForm_lzcx V3.1.005 统信UOS/Deepin V20 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_uos_mips64el.deb)
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (MIPS64EL)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_mips64el.deb)
+
+[biForm_lzcx V3.1.005 红旗 V11 (MIPS64EL](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_redflag11_mips64el.deb)
 
 ### -其它平台
 
@@ -202,6 +206,8 @@
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_redflag11_amd64.deb)
 
+[biReader V3.1.005 (龙芯|mips64el)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_redflag11_mips64el.deb)
+
 ### - Manjaro V21 适用版本
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1-x86_64.pkg.tar.zst)
@@ -257,6 +263,8 @@
 ### - 红旗 V11 适用版本
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_redflag11_amd64.deb)
+
+[dziapp V1.0.001 (龙芯|mips64el)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_redflag11_mips64el.deb)
 
 ### - Manjaro V21 适用版本
 
