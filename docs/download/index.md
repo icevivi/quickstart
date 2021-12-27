@@ -84,7 +84,7 @@
 
 [biForm V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-2_kylin_loongarch64.deb)
 
-### - Ubuntu V20-V21 / Linux mint V20 适用版本
+### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用版本
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform_3.1.005-1_ubuntu20_amd64.deb)
 
@@ -144,7 +144,7 @@
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_arm64.deb)
 
-[biForm_lzcx V3.1.005 Ubuntu V20-V21 / Linux mint V20 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
+[biForm_lzcx V3.1.005 Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu20_amd64.deb)
 
 [biForm_lzcx V3.1.005 Ubuntu V18 / Linux mint V19 / 红旗 V10 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_ubuntu18_amd64.deb)
 
@@ -194,7 +194,7 @@
 
 [biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_loongarch64.deb)
 
-### - Ubuntu V20-V21 / Linux mint V20 适用版本
+### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用版本
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_ubuntu20_amd64.deb)
 
@@ -252,7 +252,7 @@
 
 [dziapp V1.0.001 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-2_kylin_loongarch64.deb)
 
-### - Ubuntu V20-V21 / Linux mint V20 适用版本
+### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用版本
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu20_amd64.deb)
 
