@@ -8,6 +8,8 @@
 
 - [Linux版安装](#linux)
 
+- [Puppy Linux 安装使用说明](setup/puppy_linux)
+
 - [Linux下中文输入法的问题](#linux_im)
 
 - [多实例](#instance)
@@ -64,6 +66,10 @@ Windows下安装目录是可以在安装时选择的，但一般建议不要装�
 
 ```sudo pacman -U pkg.tar.zst文件名```
 
+### 5、使用.pet包进行安装
+
+Puppy Linux 使用 .pet 包进行安装，直接点击对应的 .pet 文件就可以完成安装。
+
 ### Linux下的安装目录
 
 Linux平台下的安装目录是固定的：
@@ -96,6 +102,14 @@ sudo vim /etc/profile
 export GTK_IM_MODULE=ibus  
 export XMODIFIERS=@im=ibus  
 export QT_IM_MODULE=ibus
+```
+
+一般情况下，如果您使用的Linux发行版缺省使用的是 fcitx 输入法，是不需要额外进行设置的。但有些情况下，如果您需要自己安装 fcitx 输入法，如果发现不能在程序中进行中文输入，可以在 /etc/profile 中添加以下内容：
+
+```
+export GTK_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export QT_IM_MODULE=fcitx
 ```
 
 然后重启系统。
