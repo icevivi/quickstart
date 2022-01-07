@@ -12,6 +12,8 @@
 
 - [Linux下中文输入法的问题](#linux_im)
 
+- [Linux下任务栏系统托盘图标的问题](#linux_trayicon)
+
 - [多实例](#instance)
 
 - [工作目录](#workspace)
@@ -56,7 +58,7 @@ Windows下安装目录是可以在安装时选择的，但一般建议不要装�
 
 ### 3、使用RPM包进行安装
 
-支持RPM包的操作系统，通过命令行安装下载到的.rpm文件：
+支持RPM包的操作系统（如Fedora），通过命令行安装下载到的.rpm文件：
 
 ```sudo rpm -ivh rpm文件名 --nodeps --force```
 
@@ -74,13 +76,12 @@ Puppy Linux 使用 .pet 包进行安装，直接点击对应的 .pet 文件就�
 
 Linux平台下的安装目录是固定的：
 
-- biForm安装在 /opt/apps/com.bilive.biform
-
-- biForm(龙众创芯专版)安装在 /opt/apps/com.bilive.biformlzcx
-
-- biReader安装在 /opt/apps/com.bilive.bireder
-
-- 智应软件中心安装在 /opt/apps/com.bilive.dziapp
+|       产品        |             安装目录             |
+| ----------------- | ------------------------------- |
+| biForm社区版       | /opt/apps/com.bilive.biform     |
+| biForm龙众创芯专版 | /opt/apps/com.bilive.biformlzcx |
+| biReader社区版     | /opt/apps/com.bilive.bireader   |
+| 智应软件中心       | /opt/apps/com.bilive.dziapp     |
 
 ---
 
@@ -104,7 +105,7 @@ export XMODIFIERS=@im=ibus
 export QT_IM_MODULE=ibus
 ```
 
-一般情况下，如果您使用的Linux发行版缺省使用的是 fcitx 输入法，是不需要额外进行设置的。但有些情况下，如果您需要自己安装 fcitx 输入法，如果发现不能在程序中进行中文输入，可以在 /etc/profile 中添加以下内容：
+一般情况下，如果您使用的Linux发行版缺省使用的是 fcitx 输入法，是不需要额外进行设置的。但有些情况下，如果您需要自己安装 fcitx 输入法，或者发现不能在程序中进行中文输入，可以在 /etc/profile 中添加以下内容：
 
 ```
 export GTK_IM_MODULE=fcitx
@@ -113,6 +114,20 @@ export QT_IM_MODULE=fcitx
 ```
 
 然后重启系统。
+
+---
+
+<h2 id=linux_trayicon>Linux下任务栏系统托盘图标的问题</h2>
+
+[返回目录](#category)
+
+使用GNOME 3 的某些Linux发行版（比如Fedora35），系统托盘图标被隐藏，所以“智应软件中心”的托盘图标会看不到，虽然PFF程序依旧可以启动运行，但是没有任务栏图标的菜单可用，有时也不方便。
+
+如果要启动系统托盘图标，需要安装一下 gnome 插件。
+
+可以参考 [如何安装gnome插件](https://zhuanlan.zhihu.com/p/36265103) 先安装本地支持组件，再使用Chorme浏览器安装 [AppIndicator插件](https://extensions.gnome.org/extension/615/appindicator-support/) 。安装成功后就可以看到系统托盘图标了。
+
+参考 [GNOME启用系统托盘图标](https://www.cnblogs.com/k4nz/p/14257746.html) 一文。
 
 ---
 
@@ -138,7 +153,7 @@ PFF文件与智应软件中心的绑定可以通过操作系统提供的设置�
 
 [返回目录](#category)
 
-对于使用.regi文件完成注册激活的软件，.regi文件针对这台机器是长期有效的，所以如果需要重装机器或重新程序，.regi文件需要提前备份出来，安装后再复制回过，通过软件界面重新注册一下。
+对于使用.regi文件完成注册激活的软件，.regi文件针对这台机器是长期有效的，所以如果需要重装机器或重新程序，.regi文件需要提前备份出来，安装后再复制回去，通过软件界面重新注册一下。
 
 ---
 
@@ -160,7 +175,14 @@ Windows下，如果软件安装在C盘，工作目录是在：“C:\Users\Admini
 
 Linux下使用家目录下的一个子目录做为工作目录，不同软件有不同的子目录名。
 
-比如biForm的社区版用的目录是“~/.biform_community“，biReader社区版用的目录是“~/.bireader_web”。
+目前发布的产品使用的工作目录：
+
+|       产品        |        目录         |
+| ----------------- | ------------------- |
+| biForm社区版       | ~/.biform_community |
+| biForm龙众创芯专版 | ~/.biform_lzcx      |
+| biReader社区版     | ~/.bireader_web     |
+| 智应软件中心       | ~/.dziapp_runtime   |
 
 ---
 
