@@ -36,7 +36,7 @@
 
 提取码：by4j
 
-### 其它操作系统 / 工具
+### 其它操作系统版本 / 工具
 
 [网盘链接](https://pan.baidu.com/s/1T1H0Si8xYtT5oiGehJofiA)
 
@@ -106,6 +106,10 @@
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1.fc28.x86_64.rpm)
 
+### - Fedora V35 适用版本
+
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1.fc35.x86_64.rpm)
+
 ### - Puppy Linux (fossapup64) V9.5 适用版本
 
 [biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/biform_3.1.005.pet)
@@ -160,7 +164,10 @@
 
 [biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-x86_64.pkg.tar.zst)
 
-[biForm_lzcx V3.1.005 Fedora V28 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc28.x86_64.rpm)
+[biForm_lzcx V3.1.005 Fedora V28 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/
+com.bilive.biformlzcx-3.1.005-1.fc28.x86_64.rpm)
+
+[biForm_lzcx V3.1.005 Fedora V28 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc35.x86_64.rpm)
 
 [biForm_lzcx V3.1.005 Puppy Linux (fossapup64) V9.5 适用版本 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biformlzcx/biformlzcx_1.0.001.pet)
 
@@ -228,6 +235,10 @@
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1.fc28.x86_64.rpm)
 
+### - Fedora V35 适用版本
+
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1.fc35.x86_64.rpm)
+
 ### - Puppy Linux (fossapup64) V9.5 适用版本
 
 [biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/bireader_3.1.005.pet)
@@ -293,6 +304,10 @@
 ### - Fedora V28 适用版本
 
 [dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1.fc28.x86_64.rpm)
+
+### - Fedora V35 适用版本
+
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1.fc35.x86_64.rpm)
 
 ### - Puppy Linux (fossapup64) V9.5 适用版本
 
