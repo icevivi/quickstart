@@ -20,5 +20,7 @@
 
 - [**演示和示例**](/demo/index)
 
+- [**PFP打包工具**](/pfp/tools)
+
 - [**更多参考文档**](http://staticpages.bilive.com/#/)
 
