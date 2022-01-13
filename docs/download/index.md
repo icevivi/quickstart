@@ -285,7 +285,7 @@ com.bilive.biformlzcx-3.1.005-1.fc28.x86_64.rpm)
 
 ### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用版本
 
-[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-1_ubuntu20_amd64.deb)
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp_1.0.001-2_ubuntu20_amd64.deb)
 
 ### - Ubuntu V18 / Linux mint V19 / 红旗 V10 适用版本
 
