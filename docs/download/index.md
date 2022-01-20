@@ -32,9 +32,9 @@
 
 ### biForm龙众创芯专版  V3.1.005 / 智应软件中心 V1.0.001
 
-[网盘链接](https://pan.baidu.com/s/1_Uqa067OsSlEBVP6DgyvSA)
+[网盘链接](https://pan.baidu.com/s/1zvo0floityoRgGGIOW3obg)
 
-提取码：by4j
+提取码：9npu
 
 ### 其它操作系统版本 / 工具
 
