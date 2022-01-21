@@ -22,9 +22,17 @@ Windows下使用 .msi 文件进行安装，建议最好不要装在C盘。安装
 
 Windows下如果没有安装过VC++ Redistributable，需要先安装一下。
 
-UOS版本可以直接通过UOS的应用商店下载。
+Linux版本如果是 deb 包，用以下命令进行安装：
 
-Linux版本如果是 deb 包，用命令“sudo dpkg –i deb文件名” 安装，如果是rpm包，用命令“sudo rpm -ivh 文件名 --nodeps --force”进行安装。
+```
+sudo dpkg –i deb文件名
+```
+
+如果是rpm包，用：
+
+```
+sudo rpm -ivh 文件名 --nodeps --force
+```
 
 安装后，或程序启动时提示“不能启动：连接数据库失败”等信息，是因为安装目录没有访问权限造成的，可以修改目录的访问权限或卸载后选择其它安装目录。
 
