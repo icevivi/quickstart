@@ -14,6 +14,8 @@
 
 - [智应软件中心(dziapp) V1.0.001](#dziapp)
 
+- [智龙嵌入式开发集成开发环境 V1.0.005](/smartloong/download)
+
 - [如何安装](#setup)
 
 - [其它工具](#tools)
