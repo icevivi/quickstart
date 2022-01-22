@@ -64,11 +64,15 @@ Windows下可能需要先安装驱动。Linux下需要将开发板连上 USB 口
 
 ## 使用智龙IDE进行嵌入式开发
 
-详细的用户使用说明： [智龙IDE用户操作手册](https://www.bilive.com/site_media/media/setup/smartloong/help/smartloong_1.0.005_manual.pdf)  。
+这里有详细的用户使用说明： [智龙IDE用户操作手册](https://www.bilive.com/site_media/media/setup/smartloong/help/smartloong_1.0.005_manual.pdf)  。
 
 ## 扩展组件（插件）
 
 智龙IDE使用了 [biLive跨平台桌面应用框架](/bilive/bilive_framework) 做为插件框架，因此具有很强的可扩展性。
 
-访问 [智龙IDE扩展组件中心](smartloong/plugins) 了解关于插件的详细信息，以及[如何为智龙IDE开发扩展组件](smartloong/dev_howto)。
+访问 [智龙IDE扩展组件中心](smartloong/plugins) 了解关于插件的详细信息，以及 [如何为智龙IDE开发扩展组件](smartloong/dev_howto)。
+
+## 注册
+
+点击 [注册流程](smartloong/regi) 了解关于产品注册激活的详细说明。
 
