@@ -32,7 +32,7 @@
 
 [smartloong V1.0.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/smartloong/cn.mculoong.smartloong_1.0.005-1_kylin_loongarch64.deb)
 
-### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 适用版本
+### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16 / Pop! OS V20+ 适用版本
 
 [smartloong V1.0.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/smartloong/cn.mculoong.smartloong_1.0.005-1_ubuntu20_amd64.deb)
 

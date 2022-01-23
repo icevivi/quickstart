@@ -24,7 +24,7 @@
 
 biForm 安装后主菜单上“演示”有我们提供的一组演示程序，可以直接通过菜单打开。
 
-biForm 安装目录下demo子目录下的demo.zip是上面这组演示程序打包在一起的文件，也可以解压到其它下后使用。
+biForm 安装目录下demo子目录下的demo.zip是上面这组演示程序打包在一起的文件，也可以解压到其它目录下后使用。
 
 另外也可以从 [demo.zip](https://www.bilive.com/site_media/media/tools/demo.zip) 下载这个文件。
 
