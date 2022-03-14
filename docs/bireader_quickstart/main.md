@@ -16,10 +16,11 @@ biReader是新一代创新的软件应用平台，花上几分钟时间通过本
 
 [多个应用如何组合成大型的应用](/bireader_quickstart/apps)
 
-[易于反牚的升级](/bireader_quickstart/upgrade)
+[易于反掌的升级](/bireader_quickstart/upgrade)
 
 [二次开发和扩展](/bireader_quickstart/dev)
 
+[出纳管理系统演示](/demo/cashdemo)
 
 ## 如何获取
 
@@ -29,21 +30,9 @@ biReader V3.1 支持 SQLite、MS SQL Server2000/2005/2008、PostgreSQL 等数据
 
 操作系统目前发布的版支持Windows系列各版本及Linux部分发行版。未来会陆续发布支持其他DBMS、其它操作系统的版本。
 
-### Windows 社区免费版
-
-[biReader V3.1.001](https://www.bilive.com/site_media/media/setup/setup_bireader_v3.1.001.msi)
-
-### Linux 社区免费版
-
 Deepin V20和 UOS 适用版本请通过应用商店直接安装。
 
-[biReader  V3.1.001 AMD64|x86_64|兆芯|海光 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_amd64.deb)
-
-[biReader V3.1.001 ARM64|麒麟|飞腾 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_arm64.deb)
-
-[biReader V3.1.001 MIPS64EL|龙芯](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_mips64el.deb)
-
-[biReader V3.1.001 申威 适用版](https://www.bilive.com/site_media/media/setup/com.bilive.bireader_v3.1.001-1_sw_64.deb)
+通过 [下载中心](/download/index) 可以下载所有平台下的最新版本。
 
 ## 获取更多信息和帮助
 

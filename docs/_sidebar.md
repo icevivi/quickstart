@@ -16,8 +16,6 @@
 
 - [**下载中心**](/download/index)
 
-- [**历史版本下载**](/download/oldversion)
-
 - [**演示和示例**](/demo/index)
 
 - [**PFP打包工具**](/pfp/tools)
