@@ -96,7 +96,7 @@
 
 ### - Manjaro V21 适用版本
 
-[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1-x86_64.pkg.tar.zst)
+[biForm V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biform-3.1.005-1-manjaro21-x86_64.pkg.tar.zst)
 
 ### - 红旗 V11 适用版本
 
@@ -164,7 +164,7 @@
 
 [biForm_lzcx V3.1.005 红旗 V11 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-3_redflag11_amd64.deb)
 
-[biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-x86_64.pkg.tar.zst)
+[biForm_lzcx V3.1.005 Manjaro V21 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1-manjaro21-x86_64.pkg.tar.zst)
 
 [biForm_lzcx V3.1.005 Fedora V28 适用(AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx-3.1.005-1.fc28.x86_64.rpm)
 
@@ -230,7 +230,7 @@
 
 ### - Manjaro V21 适用版本
 
-[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1-x86_64.pkg.tar.zst)
+[biReader V3.1.005 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader-3.1.005-1-manjaro21-x86_64.pkg.tar.zst)
 
 ### - Fedora V28 适用版本
 
@@ -300,7 +300,7 @@
 
 ### - Manjaro V21 适用版本
 
-[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1-x86_64.pkg.tar.zst)
+[dziapp V1.0.001 (AMD64|x86_64)](https://www.bilive.com/site_media/media/setup/dziapp/com.bilive.dziapp-1.0.001-1-manjaro21-x86_64.pkg.tar.zst)
 
 ### - Fedora V28 适用版本
 
