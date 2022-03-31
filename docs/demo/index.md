@@ -50,7 +50,7 @@ biForm 安装目录下demo子目录下的 demo.zip 可以解压到其它目录�
 
 下载：[出纳管理系统PFP应用包](https://www.bilive.com/site_media/media/demo/cash_v2.7.PFP)
 
-如何使用，请参考： [使用PFP应用包自建数据库](/demo/cashdemo/#createbyself) 
+如何使用，请参考： [使用PFP应用包自建数据库](/demo/cashdemo?id=createbyself) 
 
 ---
 
