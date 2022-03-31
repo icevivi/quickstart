@@ -209,7 +209,7 @@ postgres=#\q
 
 提示：
 - 服务器和客户端，可以混合使用不同的CPU架构和操作系统。也即不同平台的用户可以通过 biReader 共享使用同一个 PostgreSQL 数据源；
-- 局域网访问连接 PostgreSQL 服务器，缺省的安装一般是不能连接的，需要在服务器端进行一些设置，请参考 [PostgreSQL安装和配置指南](/demo/postgresql#share)；
+- 局域网访问连接 PostgreSQL 服务器，缺省的安装一般是不能连接的，需要在服务器端进行一些设置，请参考 [PostgreSQL安装和配置指南](/demo/postgresql?id=share)；
 - 如果连接参数设置正确，但 biReader 连接数据库不成功，可以用 ```psql``` 命令连接进行测试来排查环境问题。如果您的Linux发行版没有安装 postgresql-client ，可能需要先手动安装一下。
 
 ---
