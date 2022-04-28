@@ -18,6 +18,8 @@
 
 - [**演示和示例**](/demo/index)
 
+- [**C/S架构管理系统演示**](/demo/cashdemo)
+
 - [**PFP打包工具**](/pfp/tools)
 
 - [**更多参考文档**](http://staticpages.bilive.com/#/)
