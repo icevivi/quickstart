@@ -156,7 +156,7 @@
 
 [biForm_lzcx V3.1.005 银河麒麟 V10 适用 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_amd64.deb)
 
-[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_kylin_arm64.deb)
+[biForm_lzcx V3.1.005 银河麒麟 V10 适用 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-1_kylin_arm64.deb)
 
 [biForm_lzcx V3.1.005 Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16  / Pop! OS V20+  / 优麒麟V20  适用 (AMD64|x86_64](https://www.bilive.com/site_media/media/setup/biform/com.bilive.biformlzcx_3.1.005-2_ubuntu20_amd64.deb)
 
@@ -208,11 +208,11 @@
 
 [biReader V3.1.005 (龙芯|MIPS64EL)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_mips64el.deb)
 
-[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_amd64.deb)
+[biReader V3.1.005 (AMD64|x86_64|兆芯|海光)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_amd64.deb)
 
-[biReader V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-1_kylin_arm64.deb)
+[biReader V3.1.005 (ARM64|鲲鹏|飞腾|海思麒麟)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_arm64.deb)
 
-[biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-2_kylin_loongarch64.deb)
+[biReader V3.1.005 (龙芯|LoongArch64)](https://www.bilive.com/site_media/media/setup/bireader/com.bilive.bireader_3.1.005-3_kylin_loongarch64.deb)
 
 ### - Ubuntu V20-V21 / Linux mint V20 / Zorin OS V16  / Pop! OS V20+ / 优麒麟V20 适用版本
 
