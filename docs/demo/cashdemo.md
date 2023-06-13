@@ -104,11 +104,11 @@
 
 我们提供的演示数据库中已经准备好了一些数据，下载后不需要进行初始化设置，可立即使用。
 
-使用SQLite数据库，请参考 [SQLite演示数据库使用说明](sqlite) 。
+使用SQLite数据库，请参考 [SQLite演示数据库使用说明](#sqlite) 。
 
-使用MSSQL数据库，请参考 [MSSQL演示数据库使用说明](mssql) 。
+使用MSSQL数据库，请参考 [MSSQL演示数据库使用说明](#mssql) 。
 
-使用PostgreSQL数据库，请参考 [PostgreSQL演示数据库使用说明](postgresql) 。
+使用PostgreSQL数据库，请参考 [PostgreSQL演示数据库使用说明](#postgresql) 。
 
 ---
 
