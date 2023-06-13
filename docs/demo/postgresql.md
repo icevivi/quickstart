@@ -37,7 +37,7 @@ postgres=# \password postgres;
 
 C:\Users\Administrator>f:
 
-F:\PostgreSQL\11\bin>cd f:\PostgreSQL\11\bin
+F:>cd f:\PostgreSQL\11\bin
 
 F:\PostgreSQL\11\bin>pg_ctl -D f:\PostgreSQL\11\data start
 

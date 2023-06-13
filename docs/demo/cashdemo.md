@@ -140,11 +140,17 @@ biLive 运行时引擎提供了用户账号管理、密码管理、登录管理�
 1. 下载 [mssql演示数据库](https://www.bilive.com/site_media/media/demo/cashdemo_mssql2005.zip)；
 2. 解压cashdemo_mssql.zip文件，使用 MSSQL server 2005 的管理工具，创建一个新的数据库  cashdemo，并使用解压后得到的 cashdemo.bak 还原数据库；
 3. 启动 biReader ，在启动画面点“数据源>>>”，如下图所示：
+
 ![biReader数据源设置](mssql05.png)
+
 4. 点“添加”，出现以下界面，按您的数据源信息设置MSSQL连接参数（如果服务器是本机，将“服务器”设为空就可以了）：
+
 ![数据源设置](mssql06.png)
+
 5. 保存数据源设置，返回数据源列表界面（如果连接不上数据库，保存时会报错）：
+
 ![数据源列表](sqlite2.png)
+
 6. 双击刚才设置的数据源，biReader会连接这个数据库；
 7. 点“快速登录”，或点“使用账号密码登录”使用账号 admin（密码admin）登录后，就可以使用“出纳管理系统”了。
 
@@ -164,11 +170,17 @@ biLive 运行时引擎提供了用户账号管理、密码管理、登录管理�
 1. 下载 [sqlite演示数据库](https://www.bilive.com/site_media/media/demo/cashdemo_sqlite.zip)；
 2. 解压cashdemo_sqlite.zip文件，得到 cashdemo.db3 文件，注意所在目录当前用户要有读写权限；
 3. 启动 biReader ，在启动画面点“数据源>>>”，如下图所示：
+
 ![biReader数据源设置](mssql05.png)
+
 4. 点“添加”，出现以下界面，选择SQLite数据文件为刚才下载得到的cashdemo.db3 文件，并设置数据源名称：
+
 ![数据源设置](sqlite1.png)
+
 5. 保存数据源设置，返回数据源列表界面：
+
 ![数据源列表](sqlite2.png)
+
 6. 双击刚才设置的数据源，biReader会连接这个数据库；
 7. 点“快速登录”，或点“使用账号密码登录”使用账号 admin（密码admin）登录后，就可以使用“出纳管理系统”了。
 
@@ -201,7 +213,9 @@ postgres=#\q
 如果是连接本机，“服务器”一栏一般用空字符串或“localhost”。如果要连接其它服务器，需要填写服务器的IP地址。
 
 ![数据源设置](pg01.png)
+
 ![数据源设置](pg02.png)
+
 ![数据源设置](pg03.png)
 
 设置后，点“保存”，如果连接不上会报错。如果连接成功，会返回到启动画面；
